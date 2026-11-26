@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lis-0041",
+    "instruction": "Dengarkan percakapan. Siapa yang membuat bekal itu?",
+    "explanation": "Saat ditanya apakah ia membuatnya sendiri, perempuan menjawab いいえ、母が つくりました (tidak, ibu saya yang membuat). 母 dibaca はは dan berarti “ibu saya”.",
+    "transcriptTranslation": "Laki-laki: Bekal itu kelihatannya enak. Buat sendiri?\nPerempuan: Tidak, ibu saya yang membuat."
+  },
+  {
+    "id": "lis-0042",
+    "instruction": "Dengarkan percakapan. Akhir pekan ini laki-laki itu pergi ke mana?",
+    "explanation": "Ia berkata ともだちと やまへ いきます (saya pergi ke gunung bersama teman). やま = gunung, うみ = laut, まち = kota.",
+    "transcriptTranslation": "Perempuan: Akhir pekan ini pergi ke suatu tempat?\nLaki-laki: Ya, saya pergi ke gunung bersama teman."
+  },
+  {
+    "id": "lis-0043",
+    "instruction": "Dengarkan percakapan. Mengapa perempuan itu tidak bisa tidur?",
+    "explanation": "Ia berkata となりの へやが うるさくて (karena kamar sebelah berisik). うるさい berarti “berisik”, dan bentuk 〜くて di sini menyatakan alasan.",
+    "transcriptTranslation": "Laki-laki: Lin, wajahmu pucat. Tidak apa-apa?\nPerempuan: Tadi malam saya kurang bisa tidur. Kamar sebelah berisik.\nLaki-laki: Wah, kasihan. Hari ini pulanglah lebih awal dan beristirahat."
+  },
+  {
+    "id": "lis-0044",
+    "instruction": "Dengarkan percakapan. Apakah laki-laki itu datang ke pesta?",
+    "explanation": "Ia berkata いきたいんですが (saya ingin datang, tetapi …), lalu menjelaskan bahwa minggu depan ia dinas ke Osaka (しゅっちょう). Jadi ia tidak datang, dan perempuan menjawab ざんねんですね (sayang sekali).",
+    "transcriptTranslation": "Perempuan: Tanaka, minggu depan datang ke pesta?\nLaki-laki: Saya ingin datang, tetapi minggu depan saya dinas ke Osaka.\nPerempuan: Begitu, ya. Sayang sekali."
+  },
+  {
+    "id": "lis-0045",
+    "instruction": "Dengarkan percakapan di kasir. Berapa totalnya?",
+    "explanation": "Kasir berkata ぜんぶで ごひゃくえんです (semuanya 500 yen). ごひゃく = 500, ごじゅう = 50, ごせん = 5.000.",
+    "transcriptTranslation": "Perempuan: Apakah Anda punya kartu poin?\nLaki-laki: Tidak punya.\nPerempuan: Baik, maaf. Semuanya 500 yen."
+  },
+  {
+    "id": "lis-0046",
+    "instruction": "Dengarkan percakapan di agen properti. Kamar mana yang dilihat laki-laki itu?",
+    "explanation": "Kamar 50.000 yen dekat stasiun (5 menit), sedangkan kamar 40.000 yen butuh 20 menit dari stasiun. Ia berkata やすい ほうを みせて ください (tolong tunjukkan yang lebih murah), yaitu kamar 40.000 yen yang jauh dari stasiun.",
+    "transcriptTranslation": "Laki-laki: Tolong beri tahu sewa kamar ini.\nPerempuan: 50.000 yen sebulan. Lima menit jalan kaki dari stasiun.\nLaki-laki: Dekat, ya. Tapi agak mahal. Ada kamar yang sedikit lebih murah?\nPerempuan: Ada kamar 40.000 yen, tetapi 20 menit dari stasiun.\nLaki-laki: Kalau begitu, tolong tunjukkan yang lebih murah."
+  },
+  {
+    "id": "lis-0047",
+    "instruction": "Dengarkan percakapan di bagian barang hilang. Seperti apa payung laki-laki itu?",
+    "explanation": "Ia berkata くろくて、おおきい かさです (payungnya hitam dan besar). くろい = hitam, しろい = putih, おおきい = besar, ちいさい = kecil.",
+    "transcriptTranslation": "Laki-laki: Permisi, payung saya tertinggal di kereta.\nPerempuan: Payungnya seperti apa?\nLaki-laki: Hitam dan besar.\nPerempuan: Payung hitam, ya. Mohon tunggu sebentar."
+  },
+  {
+    "id": "lis-0048",
+    "instruction": "Dengarkan pengumuman sebelum naik bus. Barang bawaan diletakkan di mana?",
+    "explanation": "Pembicara berkata にもつを あしの したに おいて ください (letakkan barang bawaan di bawah kaki). あしの した berarti “di bawah kaki”.",
+    "transcriptTranslation": "Perempuan: Semuanya, busnya sudah datang. Silakan naik secara bergiliran. Letakkan barang bawaan di bawah kaki."
+  },
+  {
+    "id": "lis-0049",
+    "instruction": "Dengarkan peraturan sebuah ruangan. Apa yang dilakukan saat masuk ke ruangan ini?",
+    "explanation": "Kalimat pertama: かならず くつを はきかえて ください (pastikan mengganti sepatu). Makan, minum, dan menelepon di dalam ruangan justru dilarang.",
+    "transcriptTranslation": "Laki-laki: Saat masuk ke ruangan ini, pastikan mengganti sepatu. Jangan makan atau minum di dalam ruangan. Kalau ingin menelepon, keluarlah dari ruangan."
+  },
+  {
+    "id": "lis-0050",
+    "instruction": "Dengarkan pemberitahuan perubahan jadwal. Pelatihan besok mulai pukul berapa?",
+    "explanation": "Jadwal lama adalah pukul 10 pagi (ごぜん じゅうじから). Setelah 〜が (tetapi), disebutkan jadwal baru: ごご さんじからに なりました (menjadi mulai pukul 3 sore).",
+    "transcriptTranslation": "Perempuan: Jadwal besok berubah. Pelatihan semula mulai pukul 10 pagi, tetapi menjadi mulai pukul 3 sore. Tempatnya tidak berubah. Jangan sampai keliru."
+  }
+]

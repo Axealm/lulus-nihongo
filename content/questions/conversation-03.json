@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0021", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：きのうの パーティーは どうでしたか。\nB：とても (　　)。",
+    "choices": ["楽しかったです", "楽しいでした", "楽しくです"], "answerIndex": 0
+  },
+  {
+    "id": "con-0022", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：日本に 来る 前に、日本語を 勉強しましたか。\nB：はい、国で 6か月 (　　)。",
+    "choices": ["勉強します", "勉強しました", "勉強しましょう"], "answerIndex": 1
+  },
+  {
+    "id": "con-0023", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：その 荷物、重そうですね。(　　)。\nB：ありがとうございます。たすかります。",
+    "choices": ["持って ください", "持ちたいですか", "持ちましょうか"], "answerIndex": 2
+  },
+  {
+    "id": "con-0024", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：帰る とき、電気を (　　) 帰って ください。\nB：はい、わかりました。",
+    "choices": ["けしてから", "けしながら", "けしたり"], "answerIndex": 0
+  },
+  {
+    "id": "con-0025", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(電話で)\nA：はい、さくら工場です。\nB：リンと もうしますが、田中さんを (　　)。",
+    "choices": ["おじゃまします", "おねがいします", "しつれいします"], "answerIndex": 1
+  },
+  {
+    "id": "con-0026", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：しゅみは 何ですか。\nB：音楽を (　　) ことです。",
+    "choices": ["聞く", "聞いて", "聞きます"], "answerIndex": 0
+  },
+  {
+    "id": "con-0027", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：この 部屋、暑いですね。\nB：じゃあ、まどを (　　)。",
+    "choices": ["開けましたか", "開けましょうか", "開けて いますか"], "answerIndex": 1
+  },
+  {
+    "id": "con-0028", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：これ、つまらない ものですが、どうぞ。\nB：ありがとうございます。(　　)。",
+    "choices": ["おじゃまします", "おやすみなさい", "いただきます"], "answerIndex": 2
+  },
+  {
+    "id": "con-0029", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(店で)\nA：すみません、これを プレゼント用に (　　)。\nB：はい、かしこまりました。",
+    "choices": ["つつんで いただけますか", "つつんでも いいですか", "つつみましょうか"], "answerIndex": 0
+  },
+  {
+    "id": "con-0030", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：あした、いっしょに 映画を 見に 行きませんか。\nB：すみません。あしたは 友だちが 来る (　　)、行けません。",
+    "choices": ["のに", "ので", "のを"], "answerIndex": 1
+  }
+]

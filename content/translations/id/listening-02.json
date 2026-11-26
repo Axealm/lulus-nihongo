@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lis-0011",
+    "instruction": "Dengarkan percakapan. Apa yang dilakukan laki-laki itu kemarin?",
+    "explanation": "Ia berkata あめでしたから、うちで ほんを よみました (karena hujan, saya membaca buku di rumah).",
+    "transcriptTranslation": "Perempuan: Kemarin melakukan apa?\nLaki-laki: Karena hujan, saya membaca buku di rumah."
+  },
+  {
+    "id": "lis-0012",
+    "instruction": "Dengarkan percakapan. Kapan ulang tahun perempuan itu?",
+    "explanation": "Ia berkata しちがつ とおかです. しちがつ = Juli dan とおか = tanggal 10. Hati-hati, ようか berarti tanggal 8.",
+    "transcriptTranslation": "Laki-laki: Ulang tahun Anda kapan?\nPerempuan: Tanggal 10 Juli.\nLaki-laki: Oh, minggu depan, ya."
+  },
+  {
+    "id": "lis-0013",
+    "instruction": "Dengarkan percakapan. Sudah berapa lama laki-laki itu berada di Jepang?",
+    "explanation": "Ia belajar satu tahun di negaranya (くにで いちねん), lalu berkata にほんに きてから、もう にねんです (sejak datang ke Jepang sudah dua tahun). Yang ditanyakan adalah lamanya di Jepang, yaitu 2 tahun.",
+    "transcriptTranslation": "Perempuan: Ali, bahasa Jepang Anda bagus, ya. Sudah belajar berapa lama?\nLaki-laki: Saya belajar satu tahun di negara saya. Sejak datang ke Jepang, sudah dua tahun."
+  },
+  {
+    "id": "lis-0014",
+    "instruction": "Dengarkan percakapan. Kapan mereka pergi ke pantai?",
+    "explanation": "Sabtu ini perempuan bekerja, dan Minggu ini laki-laki tidak bisa. Akhirnya laki-laki berkata らいしゅうの どようびに しましょう (mari kita pergi Sabtu minggu depan), dan perempuan setuju.",
+    "transcriptTranslation": "Laki-laki: Akhir pekan ini, mau pergi ke pantai bersama?\nPerempuan: Boleh juga. Tapi hari Sabtu saya bekerja. Bagaimana kalau hari Minggu?\nLaki-laki: Hari Minggu agak sulit. Kalau begitu, Sabtu minggu depan saja.\nPerempuan: Ya, kalau minggu depan saya bisa."
+  },
+  {
+    "id": "lis-0015",
+    "instruction": "Dengarkan percakapan. Toilet ada di sebelah mana?",
+    "explanation": "Petunjuknya: まっすぐ いって ください。みぎに あります (jalan lurus, ada di sebelah kanan). みぎ = kanan, ひだり = kiri.",
+    "transcriptTranslation": "Laki-laki: Permisi, toilet di mana?\nPerempuan: Silakan jalan lurus di jalan ini. Ada di sebelah kanan."
+  },
+  {
+    "id": "lis-0016",
+    "instruction": "Dengarkan percakapan di klinik. Apa yang dilakukan laki-laki itu setelah ini?",
+    "explanation": "Petugas berkata この かみに おなまえと じゅうしょを かいて、あちらで まって いて ください (tulis nama dan alamat di kertas ini, lalu tunggu di sana). Jadi ia menulis nama dan alamat terlebih dahulu.",
+    "transcriptTranslation": "Perempuan: Hari ini ada keluhan apa?\nLaki-laki: Sejak tadi malam perut saya sakit. Tidak demam.\nPerempuan: Baik. Kalau begitu, tulis nama dan alamat di kertas ini, lalu tunggu di sana."
+  },
+  {
+    "id": "lis-0017",
+    "instruction": "Dengarkan percakapan di kantor pos. Berapa yang dibayar laki-laki itu?",
+    "explanation": "Lewat pesawat (ひこうき) sekitar seminggu dengan biaya 3.000 yen, lewat kapal (ふね) sekitar dua bulan dengan biaya 1.500 yen. Ia memilih はやい ほう (yang lebih cepat), yaitu pesawat, jadi 3.000 yen.",
+    "transcriptTranslation": "Laki-laki: Saya ingin mengirim barang ini ke Indonesia.\nPerempuan: Ada pesawat dan kapal. Pesawat sekitar satu minggu, biayanya 3.000 yen. Kapal sekitar dua bulan, biayanya 1.500 yen.\nLaki-laki: Kalau begitu, yang lebih cepat saja."
+  },
+  {
+    "id": "lis-0018",
+    "instruction": "Dengarkan percakapan di restoran. Apa yang dipesan laki-laki itu?",
+    "explanation": "Ia bertanya apakah masakannya mengandung daging babi (ぶたにく). Kari memakai daging ayam (とりにく), sedangkan ramen mengandung daging babi. Karena itu ia memesan カレー.",
+    "transcriptTranslation": "Laki-laki: Permisi, apakah masakan ini mengandung daging babi?\nPerempuan: Kari yang ini memakai daging ayam. Ramen mengandung daging babi.\nLaki-laki: Kalau begitu, saya pesan kari."
+  },
+  {
+    "id": "lis-0019",
+    "instruction": "Dengarkan pengumuman di stasiun. Mengapa kereta terlambat?",
+    "explanation": "Pengumumannya: ゆきの ため、にじゅっぷんほど おくれて います (karena salju, terlambat sekitar 20 menit). 〜の ため berarti “karena …”.",
+    "transcriptTranslation": "Perempuan: Pemberitahuan kepada para penumpang. Kereta tujuan Stasiun Sakura terlambat sekitar 20 menit karena salju. Bagi yang terburu-buru, silakan menggunakan bus."
+  },
+  {
+    "id": "lis-0020",
+    "instruction": "Dengarkan penjelasan pekerjaan. Apa yang dilakukan pada siang hari?",
+    "explanation": "ごぜん (pagi) mencuci dan memotong sayur. ごご (siang/sore) memasukkan sayur yang sudah dipotong ke dalam kotak: きった やさいを はこに いれます.",
+    "transcriptTranslation": "Laki-laki: Saya jelaskan pekerjaan hari ini. Pagi hari, cuci dan potong sayur. Siang hari, masukkan sayur yang sudah dipotong ke dalam kotak. Kotaknya semuanya ada 50."
+  }
+]

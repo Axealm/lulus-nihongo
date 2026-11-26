@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rea-0001",
+    "instruction": "Baca pesan berikut. Kapan latihan sepak bola diadakan?",
+    "explanation": "Hari ini tidak ada latihan karena hujan (きょうは あめですから … ありません), lalu tertulis あしたの 10じに こうえんで れんしゅうします (besok pukul 10 latihan di taman). Jadi jawabannya あしたの 10じ."
+  },
+  {
+    "id": "rea-0002",
+    "instruction": "Baca teks berikut. Setelah bangun pagi, apa yang pertama kali dilakukan orang ini?",
+    "explanation": "Tertulis 6じに おきて、こうえんを はしります (bangun pukul 6, lalu berlari di taman). そのあと berarti “setelah itu”, jadi sarapan dan berangkat dilakukan sesudah berlari."
+  },
+  {
+    "id": "rea-0003",
+    "instruction": "Baca pengumuman berikut. Perpustakaan libur pada hari apa?",
+    "explanation": "Tertulis やすみ：げつようび. やすみ berarti libur dan げつようび berarti hari Senin. かようび = Selasa, にちようび = Minggu."
+  },
+  {
+    "id": "rea-0004",
+    "instruction": "Baca papan informasi berikut. Kapan botol dan kaleng dibuang?",
+    "explanation": "Tertulis びん・かん：だい2・だい4 もくようび. だい2・だい4 berarti minggu ke-2 dan ke-4, dan もくようび berarti hari Kamis. Jadi botol (びん) dan kaleng (かん) tidak dibuang setiap minggu."
+  },
+  {
+    "id": "rea-0005",
+    "instruction": "Baca pesan berikut. Besok Ali membawa apa?",
+    "explanation": "Tertulis しりょうを 5まい コピーして、もって きて ください (tolong fotokopi dokumen 5 lembar dan bawa ke sini). Ruang rapat (かいぎしつ) hanya disebut sebagai tempat rapat."
+  },
+  {
+    "id": "rea-0006",
+    "instruction": "Baca pengumuman berikut. Klinik buka kembali mulai kapan?",
+    "explanation": "Tertulis 12月29日 ～ 1月3日は 休みです (libur dari 29 Desember sampai 3 Januari) dan 1月4日から あきます (buka mulai 4 Januari). あきます berarti “buka”."
+  },
+  {
+    "id": "rea-0007",
+    "instruction": "Baca pesan berikut. Di mana makan malamnya?",
+    "explanation": "Tertulis ばんごはんは れいぞうこに あります (makan malam ada di kulkas). あたためて 食べて ください berarti “hangatkan lalu makanlah”."
+  },
+  {
+    "id": "rea-0008",
+    "instruction": "Lihat jadwal bus berikut. Anda tiba di halte hari Senin pagi pukul 7.30. Bus berikutnya pukul berapa?",
+    "explanation": "Senin termasuk 平日 (hari kerja). Bus hari kerja berangkat pukul 7:10, 7:40, 8:10, dan 8:40. Karena Anda tiba pukul 7.30, bus berikutnya adalah 7:40."
+  },
+  {
+    "id": "rea-0009",
+    "instruction": "Lihat jadwal bus berikut. Pada hari Minggu, bus paling pagi pukul berapa?",
+    "explanation": "Hari Minggu termasuk 土・日 (Sabtu dan Minggu). Jadwalnya 8:00, 9:00, dan 10:00, jadi yang paling pagi (いちばん 早い) adalah 8:00. Pukul 7:10 adalah jadwal hari kerja."
+  },
+  {
+    "id": "rea-0010",
+    "instruction": "Baca pesan berikut. John membawa apa?",
+    "explanation": "Sato menulis 肉と やさいは わたしが 買います (daging dan sayur saya yang beli) dan ジョンさんは 飲み物を 持って きて ください (John tolong bawa minuman). Jadi John membawa 飲み物 (minuman)."
+  }
+]

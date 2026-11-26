@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0021",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "かいました (membeli) ditulis 買いました. 貸 dipakai pada 貸します (かします = meminjamkan) dan 売 pada 売ります (うります = menjual), jadi keduanya tidak bisa diikuti いました."
+  },
+  {
+    "id": "voc-0022",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Barang ini sangat (　　). Tidak bisa saya bawa sendiri.” Yang cocok adalah おもい (berat). かるい = ringan, やすい = murah."
+  },
+  {
+    "id": "voc-0023",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kata kerja かぶります dipakai untuk sesuatu yang dikenakan di kepala, jadi jawabannya ヘルメット (helm). てぶくろ (sarung tangan) memakai はめます atau します, dan マスク (masker) memakai します atau つけます."
+  },
+  {
+    "id": "voc-0024",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "やめる berarti “berhenti melakukan suatu kebiasaan atau kegiatan”. “たばこを やめました” = “Saya berhenti merokok.” Untuk hujan yang berhenti dipakai やみます (あめが やんで), bukan やめます."
+  },
+  {
+    "id": "voc-0025",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "住所 dibaca じゅうしょ, artinya “alamat”. 住 dibaca じゅう (panjang) dan 所 dibaca しょ (pendek)."
+  },
+  {
+    "id": "voc-0026",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Panas, ya. Mari (　　) AC.” Saat panas, AC dinyalakan: つけましょう. けしましょう = mari matikan, しめましょう = mari tutup."
+  },
+  {
+    "id": "voc-0027",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "じしょで しらべます berarti “mencari (arti kata) di kamus”. ならべます = menyusun berjajar, くらべます = membandingkan. Bunyinya mirip, jadi perhatikan huruf pertamanya."
+  },
+  {
+    "id": "voc-0028",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "やすみ berarti “libur / istirahat”. “きょうは しごとが やすみです” = “Hari ini pekerjaan libur.” Kata ini bukan makanan, dan untuk “murah” dipakai やすい."
+  },
+  {
+    "id": "voc-0029",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "今日 dibaca きょう, artinya “hari ini”. きのう berarti “kemarin”. Bunyi ょ kecil dan う panjang harus lengkap."
+  },
+  {
+    "id": "voc-0030",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "“Bertemu dengan teman” ditulis 会います (あいます). 合います juga dibaca あいます, tetapi artinya “cocok / pas”. 今 (いま) berarti “sekarang”."
+  }
+]

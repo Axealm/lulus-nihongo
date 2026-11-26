@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rea-0001", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "サッカーの れんしゅうは いつ しますか。",
+    "passage": "リンさんへ\nきょうは あめですから、サッカーの れんしゅうは ありません。\nあしたの 10じに こうえんで れんしゅうします。\nやまだ",
+    "choices": ["きょうの 10じ", "あしたの 10じ", "あしたの ごご"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0002", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "この ひとは あさ おきてから、はじめに なにを しますか。",
+    "passage": "わたしは まいあさ 6じに おきて、こうえんを はしります。\nそのあと、あさごはんを たべて、8じに うちを でます。\nかいしゃまで でんしゃで 30ぷん かかります。",
+    "choices": ["あさごはんを たべます", "でんしゃに のります", "こうえんを はしります"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0003", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "としょかんは なんようびが やすみですか。",
+    "passage": "【としょかんの おしらせ】\nあいている じかん：ごぜん 9じ ～ ごご 6じ\nやすみ：げつようび\nほんは 2しゅうかん かりる ことが できます。",
+    "choices": ["げつようび", "かようび", "にちようび"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0004", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "びんと かんは いつ だしますか。",
+    "passage": "【ごみの だしかた】\nもえる ごみ：かようび・きんようび\nプラスチック：すいようび\nびん・かん：だい2・だい4 もくようび\n※ あさ 8じまでに だして ください。",
+    "choices": ["まいしゅう かようび", "まいしゅう すいようび", "だい2・だい4 もくようび"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0005", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "アリさんは あした、なにを もって いきますか。",
+    "passage": "アリさん\nあしたの かいぎは 10じから 11じに かわりました。\nばしょは 2かいの かいぎしつです。\nしりょうを 5まい コピーして、もって きて ください。\nさとう",
+    "choices": ["しりょうの コピー", "かいぎしつの かぎ", "パソコン"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0006", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "クリニックは いつから あきますか。",
+    "passage": "【休みの おしらせ】\nさくらクリニック\n12月29日 ～ 1月3日は 休みです。\n1月4日から あきます。",
+    "choices": ["12月29日", "1月3日", "1月4日"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0007", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "ばんごはんは どこに ありますか。",
+    "passage": "マリアさん\nきょうは 仕事で おそく なります。\nばんごはんは れいぞうこに あります。あたためて 食べて ください。\nはは",
+    "choices": ["テーブル", "れいぞうこ", "レストラン"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0008", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "月曜日の 朝、7時半に バスていに つきました。つぎの バスは 何時ですか。",
+    "passage": "【バスの 時間】 さくら駅 行き\n平日：7:10　7:40　8:10　8:40\n土・日：8:00　9:00　10:00",
+    "choices": ["7:10", "7:40", "8:10"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0009", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "日曜日の いちばん 早い バスは 何時ですか。",
+    "passage": "【バスの 時間】 さくら駅 行き\n平日：7:10　7:40　8:10　8:40\n土・日：8:00　9:00　10:00",
+    "choices": ["7:10", "8:00", "9:00"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0010", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "ジョンさんは 何を 持って いきますか。",
+    "passage": "ジョンさん、土曜日の バーベキューの ことです。\nばしょは みどり公園です。11時に 公園の 入口に 来て ください。\n肉と やさいは わたしが 買います。ジョンさんは 飲み物を 持って きて ください。\nさとう",
+    "choices": ["飲み物", "肉", "やさい"], "answerIndex": 0
+  }
+]

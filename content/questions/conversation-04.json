@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0031", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：きのう 何を 食べましたか。\nB：すし (　　) 食べました。",
+    "choices": ["を", "に", "へ"], "answerIndex": 0
+  },
+  {
+    "id": "con-0032", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：あの 人は だれですか。\nB：田中さんです。会社 (　　) 友だちです。",
+    "choices": ["が", "の", "を"], "answerIndex": 1
+  },
+  {
+    "id": "con-0033", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：日本の 食べ物は どうですか。\nB：おいしいですが、ねだんが 少し (　　) 思います。",
+    "choices": ["高くて", "高いに", "高いと"], "answerIndex": 2
+  },
+  {
+    "id": "con-0034", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：もう この 映画を 見ましたか。\nB：いいえ、まだです。今週の 土曜日に (　　) つもりです。",
+    "choices": ["見る", "見た", "見て"], "answerIndex": 0
+  },
+  {
+    "id": "con-0035", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：漢字が たくさん 書けますね。\nB：いいえ、ひらがなと カタカナ (　　) 書けません。",
+    "choices": ["だけ", "しか", "も"], "answerIndex": 1
+  },
+  {
+    "id": "con-0036", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：どうして おくれたんですか。\nB：すみません。ねぼう (　　) しまいました。",
+    "choices": ["する", "した", "して"], "answerIndex": 2
+  },
+  {
+    "id": "con-0037", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：いってきます。\nB：(　　)。",
+    "choices": ["いってらっしゃい", "おかえりなさい", "ただいま"], "answerIndex": 0
+  },
+  {
+    "id": "con-0038", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：コーヒーと こうちゃと、どちらが いいですか。\nB：(　　)。",
+    "choices": ["はい、そうです", "こうちゃを おねがいします", "いいえ、ちがいます"], "answerIndex": 1
+  },
+  {
+    "id": "con-0039", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(会社で)\nA：すみません、コピー機の 使い方が わからないんですが…。\nB：(　　)。",
+    "choices": ["それは よかったですね", "おだいじに", "じゃあ、いっしょに やって みましょう"], "answerIndex": 2
+  },
+  {
+    "id": "con-0040", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：すみません、ここに すわっても いいですか。\nB：はい、(　　)。",
+    "choices": ["どうぞ", "いけません", "おねがいします"], "answerIndex": 0
+  }
+]

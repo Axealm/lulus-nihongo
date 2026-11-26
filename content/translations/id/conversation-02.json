@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0011",
+    "instruction": "A bertanya tentang kebiasaan pagi B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Partikel に dipakai setelah keterangan waktu berupa jam: 何時に 起きますか = “bangun jam berapa?”. で menandai tempat atau alat, を menandai objek."
+  },
+  {
+    "id": "con-0012",
+    "instruction": "A bertanya kepada penjual buah. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menjawab dengan harga (100円), jadi pertanyaannya いくらですか (berapa harganya?). いくつ menanyakan jumlah, どれ berarti “yang mana”."
+  },
+  {
+    "id": "con-0013",
+    "instruction": "A menunjukkan sebuah kanji kepada B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜すぎて berarti “terlalu … sehingga”: むずかしすぎて、読めません = “terlalu sulit, jadi tidak bisa saya baca”. 〜ながら berarti “sambil”, 〜たり dipakai untuk menyebut beberapa kegiatan."
+  },
+  {
+    "id": "con-0014",
+    "instruction": "A ingin memotret di suatu tempat. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ても いいですか dipakai untuk meminta izin: 写真を とっても いいですか = “bolehkah saya memotret?”. とらないで berarti “jangan memotret”, とりに berarti “untuk mengambil”."
+  },
+  {
+    "id": "con-0015",
+    "instruction": "Dua orang membicarakan pertandingan besok. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜たら berarti “kalau”: 雨が ふったら = “kalau hujan turun”. B menjawab bahwa pertandingan dibatalkan (中止). ふっても berarti “walaupun hujan”, ふる 前に berarti “sebelum hujan”."
+  },
+  {
+    "id": "con-0016",
+    "instruction": "Di tempat kerja, A pulang lebih dulu. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kepada rekan kerja yang pulang lebih dulu, kita mengucapkan おつかれさまでした (terima kasih atas kerja kerasnya). おかえりなさい diucapkan kepada orang yang baru pulang ke rumah, いただきます diucapkan sebelum makan."
+  },
+  {
+    "id": "con-0017",
+    "instruction": "Di restoran, pelayan menanyakan pesanan. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Saat memesan, kita menyebut nama makanan lalu 〜を おねがいします (saya pesan …). ごめんください diucapkan saat bertamu ke rumah orang."
+  },
+  {
+    "id": "con-0018",
+    "instruction": "A sedang sakit kepala. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kepada orang yang sakit, kita mengucapkan おだいじに (semoga lekas sembuh). お元気で diucapkan saat berpisah untuk waktu lama, おめでとうございます berarti “selamat”."
+  },
+  {
+    "id": "con-0019",
+    "instruction": "Di kantor, A meminta bantuan kepada rekan kerjanya, Yamada. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て いただけませんか adalah cara yang sangat sopan untuk meminta tolong: “Bisakah Anda mengajari saya?”. 教えましょうか berarti “perlu saya ajari?”, yaitu tawaran dari pihak yang mengajari."
+  },
+  {
+    "id": "con-0020",
+    "instruction": "A mengajak B berbelanja hari Minggu. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "つごうが わるい berarti “waktunya tidak cocok / tidak bisa”, ungkapan halus untuk menolak ajakan. つごうが いい berarti “waktunya cocok”, jadi tidak sesuai dengan kata すみません."
+  }
+]

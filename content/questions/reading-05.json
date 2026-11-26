@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rea-0041", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "いちばん 安い ランチは どれですか。",
+    "passage": "【さくら食堂 ランチ】\nAランチ(さかな)：700円\nBランチ(とり肉)：750円\nCランチ(やさい)：650円\n※ コーヒーは +100円",
+    "choices": ["Aランチ", "Bランチ", "Cランチ"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0042", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "Bランチと コーヒーを たのみます。ぜんぶで いくらですか。",
+    "passage": "【さくら食堂 ランチ】\nAランチ(さかな)：700円\nBランチ(とり肉)：750円\nCランチ(やさい)：650円\n※ コーヒーは +100円",
+    "choices": ["750円", "850円", "950円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0043", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "あした、どんな ふくで 行きますか。",
+    "passage": "みなさんへ\nあしたは 会社の そうじの 日です。\nよごれても いい ふくで 来て ください。\nそうじは 9時から 11時までです。",
+    "choices": ["よごれても いい ふく", "きれいな ふく", "新しい ふく"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0044", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "そうじは 何時間 しますか。",
+    "passage": "みなさんへ\nあしたは 会社の そうじの 日です。\nよごれても いい ふくで 来て ください。\nそうじは 9時から 11時までです。",
+    "choices": ["1時間", "2時間", "3時間"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0045", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "新しい アパートから 会社まで どのぐらい かかりますか。",
+    "passage": "ミラさん\n来月の 10日に ひっこします。新しい アパートは 会社の 近くです。\n今の アパートは 会社まで 1時間 かかりますが、新しい アパートからは 歩いて 10分です。\nひっこしの 日、てつだって もらえませんか。\nユキ",
+    "choices": ["歩いて 10分", "電車で 10分", "1時間"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0046", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "ユキさんは ミラさんに 何を おねがいして いますか。",
+    "passage": "ミラさん\n来月の 10日に ひっこします。新しい アパートは 会社の 近くです。\n今の アパートは 会社まで 1時間 かかりますが、新しい アパートからは 歩いて 10分です。\nひっこしの 日、てつだって もらえませんか。\nユキ",
+    "choices": ["アパートを さがす こと", "ひっこしを てつだう こと", "会社に 行く こと"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0047", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "水と 食べ物は 何日分 用意しますか。",
+    "passage": "【台風が 来る 前に】\n・水と 食べ物を 3日分 用意しましょう。\n・ベランダの ものを へやの 中に 入れましょう。\n・スマートフォンを じゅうでんしましょう。\n※ 台風の ときは、川や 海の 近くに 行かないで ください。",
+    "choices": ["3日分", "5日分", "7日分"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0048", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "台風の とき、しては いけない ことは 何ですか。",
+    "passage": "【台風が 来る 前に】\n・水と 食べ物を 3日分 用意しましょう。\n・ベランダの ものを へやの 中に 入れましょう。\n・スマートフォンを じゅうでんしましょう。\n※ 台風の ときは、川や 海の 近くに 行かないで ください。",
+    "choices": ["川の 近くに 行く こと", "スマートフォンを じゅうでんする こと", "へやの 中に いる こと"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0049", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "昼ごはんの あとで 何を しますか。",
+    "passage": "【バスりょこうの よてい】\n8:00　会社を 出ます\n10:00　さくら公園で 花を 見ます\n12:00　レストランで 昼ごはんを 食べます\n14:00　おみやげを 買います\n17:00　会社に 着きます",
+    "choices": ["花を 見ます", "会社に 帰ります", "おみやげを 買います"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0050", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "会社を 出てから 会社に 着くまで、何時間ですか。",
+    "passage": "【バスりょこうの よてい】\n8:00　会社を 出ます\n10:00　さくら公園で 花を 見ます\n12:00　レストランで 昼ごはんを 食べます\n14:00　おみやげを 買います\n17:00　会社に 着きます",
+    "choices": ["7時間", "8時間", "9時間"], "answerIndex": 2
+  }
+]

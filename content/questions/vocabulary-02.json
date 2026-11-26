@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0011", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "のどが かわきました。みずを (　　)たいです。",
+    "choices": ["たべ", "のみ", "よみ"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0012", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "(　　)で てがみを だします。",
+    "choices": ["びょういん", "ぎんこう", "ゆうびんきょく"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0013", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "あしたは しごとが (　　)ので、あそびに いけません。",
+    "choices": ["いそがしい", "やさしい", "おいしい"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0014", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "でんしゃが (　　)、かいしゃに おくれました。",
+    "choices": ["はしって", "のって", "とまって"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0015", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「たかい」",
+    "choices": ["きのうは たかいを しました。", "この かばんは 5まんえんです。とても たかいです。", "わたしは たかいに すんで います。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0016", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「かたづける」",
+    "choices": ["しごとの あとで、どうぐを かたづけます。", "あめが かたづけて います。", "バスが えきに かたづけました。"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0017", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「おくれる」",
+    "choices": ["ともだちに ほんを おくれました。", "へやが おくれて います。", "みちが こんで いて、かいぎに おくれました。"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0018", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "トイレは __右__に あります。",
+    "choices": ["ひだり", "みぎ", "みき"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0019", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "__病院__で くすりを もらいました。",
+    "choices": ["びょういん", "びよういん", "びょうい"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0020", "section": "vocabulary", "category": "kanji-meaning", "level": "A1",
+    "prompt": "きょうは 月よう日です。あしたは (　　)よう日です。",
+    "choices": ["水", "火", "日"], "answerIndex": 1
+  }
+]

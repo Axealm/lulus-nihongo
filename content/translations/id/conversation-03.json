@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0021",
+    "instruction": "A bertanya tentang pesta kemarin. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Bentuk lampau kata sifat-i dibuat dengan mengganti い menjadi かった: 楽しい → 楽しかったです (menyenangkan). 楽しいでした dan 楽しくです adalah bentuk yang salah."
+  },
+  {
+    "id": "con-0022",
+    "instruction": "A bertanya apakah B belajar bahasa Jepang sebelum datang ke Jepang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Yang ditanyakan adalah kegiatan sebelum datang ke Jepang, jadi dipakai bentuk lampau 勉強しました. 勉強します adalah bentuk sekarang atau akan datang, 勉強しましょう berarti “mari belajar”."
+  },
+  {
+    "id": "con-0023",
+    "instruction": "A melihat B membawa barang yang tampak berat. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ましょうか dipakai untuk menawarkan bantuan: 持ちましょうか = “mau saya bawakan?”. B lalu berterima kasih. 持って ください berarti “tolong bawakan”, yaitu permintaan."
+  },
+  {
+    "id": "con-0024",
+    "instruction": "Atasan memberi tahu apa yang harus dilakukan saat pulang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜てから berarti “setelah …”: 電気を けしてから 帰って ください = “matikan lampu dulu, baru pulang”. 〜ながら berarti “sambil”, 〜たり dipakai untuk menyebut beberapa kegiatan."
+  },
+  {
+    "id": "con-0025",
+    "instruction": "Lin menelepon sebuah pabrik dan ingin berbicara dengan Tanaka. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Saat menelepon dan ingin berbicara dengan seseorang, kita mengucapkan 〜さんを おねがいします (tolong sambungkan dengan …). おじゃまします diucapkan saat masuk ke rumah orang, しつれいします saat pamit atau menutup telepon."
+  },
+  {
+    "id": "con-0026",
+    "instruction": "A bertanya tentang hobi B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Sebelum こと dipakai bentuk kamus: 音楽を 聞く ことです = “(hobi saya) mendengarkan musik”. 聞いて dan 聞きます tidak bisa langsung diikuti こと."
+  },
+  {
+    "id": "con-0027",
+    "instruction": "A merasa kamarnya panas. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ましょうか dipakai untuk menawarkan sesuatu: まどを 開けましょうか = “mau saya bukakan jendelanya?”. 開けましたか menanyakan hal yang sudah lewat, 開けて いますか menanyakan keadaan sekarang."
+  },
+  {
+    "id": "con-0028",
+    "instruction": "A memberikan hadiah kepada B. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Saat menerima pemberian, kita mengucapkan ありがとうございます。いただきます (terima kasih, saya terima). おじゃまします diucapkan saat masuk ke rumah orang, おやすみなさい sebelum tidur."
+  },
+  {
+    "id": "con-0029",
+    "instruction": "Di toko, A ingin barangnya dibungkus sebagai hadiah. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て いただけますか adalah cara sopan untuk meminta tolong: つつんで いただけますか = “bisakah Anda membungkuskannya?”. つつんでも いいですか berarti “bolehkah saya membungkus”, つつみましょうか adalah tawaran dari pihak yang membungkus."
+  },
+  {
+    "id": "con-0030",
+    "instruction": "A mengajak B menonton film besok. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ので menyatakan alasan: 友だちが 来るので、行けません = “karena teman saya datang, saya tidak bisa pergi”. 〜のに berarti “padahal”, dan のを tidak menyatakan alasan."
+  }
+]

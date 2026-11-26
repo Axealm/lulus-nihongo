@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0021", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "あたらしい くつを (　　)いました。",
+    "choices": ["貸", "買", "売"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0022", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "この にもつは とても (　　)です。ひとりで もてません。",
+    "choices": ["かるい", "やすい", "おもい"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0023", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "こうじょうでは、あたまを まもる ために (　　)を かぶります。",
+    "choices": ["ヘルメット", "てぶくろ", "マスク"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0024", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「やめる」",
+    "choices": ["あめが やめて、はれました。", "からだに わるいので、たばこを やめました。", "えきで でんしゃを やめました。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0025", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "ここに __住所__を かいて ください。",
+    "choices": ["じゅうしょ", "じゅしょ", "じゅうしょう"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0026", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "あついですね。エアコンを (　　)。",
+    "choices": ["けしましょう", "しめましょう", "つけましょう"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0027", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "わからない ことばは、じしょで (　　)。",
+    "choices": ["しらべます", "ならべます", "くらべます"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0028", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「やすみ」",
+    "choices": ["やすみを たべました。", "きょうは しごとが やすみです。", "この かばんは やすみです。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0029", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "__今日__は いい てんきです。",
+    "choices": ["きのう", "きょう", "きょ"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0030", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "あした えきで ともだちに (　　)います。",
+    "choices": ["会", "合", "今"], "answerIndex": 0
+  }
+]

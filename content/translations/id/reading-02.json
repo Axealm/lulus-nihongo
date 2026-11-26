@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rea-0011",
+    "instruction": "Lihat menu berikut. Anda memesan kari dan nasi. Berapa totalnya?",
+    "explanation": "カレー 700円 dan ごはん 100円, jadi 700 + 100 = 800円. ぜんぶで berarti “semuanya / totalnya”."
+  },
+  {
+    "id": "rea-0012",
+    "instruction": "Lihat informasi kantor pos berikut. Hari Sabtu buka sampai pukul berapa?",
+    "explanation": "Tertulis 土：9:00～12:30. 土 adalah singkatan dari 土曜日 (Sabtu), jadi buka sampai pukul 12.30 (12時半). Pukul 17:00 adalah jam tutup Senin sampai Jumat, dan yang libur adalah hari Minggu serta hari libur nasional."
+  },
+  {
+    "id": "rea-0013",
+    "instruction": "Baca pesan berikut. Besok mereka bertemu di mana?",
+    "explanation": "Tertulis 8時に 駅の 前で 会いましょう (mari bertemu pukul 8 di depan stasiun). Setelah itu mereka naik bus bersama ke pabrik (工場), jadi pabrik adalah tujuan, bukan tempat bertemu."
+  },
+  {
+    "id": "rea-0014",
+    "instruction": "Baca memo kerja berikut. Hari ini An melakukan apa?",
+    "explanation": "Yamamoto meminta: 3時までに そうこを そうじして、ものを かたづけて ください (sebelum pukul 3, bersihkan gudang dan rapikan barang-barang). Yang menjelaskan cara memakai mesin adalah Yamamoto, dan itu besok."
+  },
+  {
+    "id": "rea-0015",
+    "instruction": "Baca memo kerja berikut. Kapan An mendengar penjelasan cara memakai mesin?",
+    "explanation": "Tertulis きかいの 使い方は、あした わたしが 説明します (cara memakai mesin akan saya jelaskan besok). Pukul 3 hari ini adalah batas waktu membersihkan gudang."
+  },
+  {
+    "id": "rea-0016",
+    "instruction": "Baca petunjuk minum obat berikut. Dalam sehari, berapa butir obat yang diminum seluruhnya?",
+    "explanation": "1日 2回 berarti dua kali sehari, dan 1回に 2つ berarti dua butir setiap kali minum. Jadi 2 × 2 = 4 butir (4つ) dalam sehari."
+  },
+  {
+    "id": "rea-0017",
+    "instruction": "Baca petunjuk minum obat berikut. Apa yang tidak boleh dilakukan setelah minum obat ini?",
+    "explanation": "Tertulis 飲んだ あとは、車を 運転しないで ください (setelah minum, jangan mengemudikan mobil). 〜ないで ください berarti “tolong jangan …”. Obat ini justru diminum setelah makan."
+  },
+  {
+    "id": "rea-0018",
+    "instruction": "Lihat informasi diskon supermarket berikut. Anda ingin membeli daging dengan harga murah. Hari apa Anda pergi?",
+    "explanation": "Tertulis 木・金：肉 30% 安い (Kamis dan Jumat: daging diskon 30%). 木 adalah singkatan dari 木曜日 (Kamis). Selasa adalah diskon sayur, dan Rabu adalah harga khusus telur."
+  },
+  {
+    "id": "rea-0019",
+    "instruction": "Baca pengumuman apartemen berikut. Pada tanggal 5 Oktober pagi, apa yang tidak bisa dilakukan?",
+    "explanation": "Karena ada pekerjaan perbaikan listrik (電気の 工事), tertulis この 時間は 電気が 使えません (pada jam ini listrik tidak bisa dipakai). 使えません adalah bentuk “tidak bisa” dari 使います."
+  },
+  {
+    "id": "rea-0020",
+    "instruction": "Baca pengumuman apartemen berikut. Pekerjaan perbaikan selesai pukul berapa?",
+    "explanation": "Tertulis 午前9時から 12時まで (dari pukul 9 pagi sampai pukul 12). 〜から berarti “dari” dan 〜まで berarti “sampai”, jadi selesai pukul 12."
+  }
+]

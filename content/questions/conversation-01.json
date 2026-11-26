@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0001", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：しゅうまつ、なにを しますか。\nB：ともだち (　　) えいがを みます。",
+    "choices": ["を", "に", "と"], "answerIndex": 2
+  },
+  {
+    "id": "con-0002", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：この かんじの よみかたが わかりません。\nB：じゃあ、せんせいに (　　) どうですか。",
+    "choices": ["きいたら", "きいて", "きく"], "answerIndex": 0
+  },
+  {
+    "id": "con-0003", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：すみません、トイレは どこですか。\nB：(　　)。",
+    "choices": ["はい、そうです", "あそこです", "どういたしまして"], "answerIndex": 1
+  },
+  {
+    "id": "con-0004", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(みせで)\nA：いらっしゃいませ。\nB：すみません、この シャツを (　　)。",
+    "choices": ["きては いけません", "きてみても いいですか", "きた ことが あります"], "answerIndex": 1
+  },
+  {
+    "id": "con-0005", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：あした、いっしょに ひるごはんを たべませんか。\nB：すみません。あしたは びょういんに (　　)。",
+    "choices": ["いった ことが あります", "いかなくても いいです", "いかなければ なりません"], "answerIndex": 2
+  },
+  {
+    "id": "con-0006", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：これは だれ (　　) かさですか。\nB：たなかさんのです。",
+    "choices": ["の", "を", "で"], "answerIndex": 0
+  },
+  {
+    "id": "con-0007", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：きのう、どこか いきましたか。\nB：いいえ、どこ (　　) いきませんでした。",
+    "choices": ["が", "も", "を"], "answerIndex": 1
+  },
+  {
+    "id": "con-0008", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：どうぞ、おあがり ください。\nB：(　　)。",
+    "choices": ["いってきます", "ごちそうさまでした", "おじゃまします"], "answerIndex": 2
+  },
+  {
+    "id": "con-0009", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：すみません、もう いちど ゆっくり (　　)。\nB：はい、わかりました。",
+    "choices": ["いって くださいませんか", "いっても いいですか", "いいましょうか"], "answerIndex": 0
+  },
+  {
+    "id": "con-0010", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：にほんの せいかつは どうですか。\nB：はじめは たいへんでしたが、だんだん (　　)。",
+    "choices": ["なれて おきました", "なれて きました", "なれて みました"], "answerIndex": 1
+  }
+]

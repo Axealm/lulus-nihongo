@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rea-0021", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "午後は 何時から ですか。",
+    "passage": "【びょういんの うけつけ時間】\n午前：9:00～12:00\n午後：2:00～6:00\n休み：水曜日・日曜日",
+    "choices": ["9時", "12時", "2時"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0022", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "プレゼントは いつ つきますか。",
+    "passage": "たなかさん\nたんじょうび おめでとう ございます。\nプレゼントを おくりました。あした つきます。\nリー",
+    "choices": ["きょう", "あした", "らいしゅう"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0023", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "1か月に 2回 行きます。いくら はらいますか。",
+    "passage": "【日本語教室の お知らせ】\n毎週 土曜日 10:00～12:00\nばしょ：みどり こうみんかん 2かい\nお金：1回 200円\nもうしこみ：こうみんかんの うけつけで",
+    "choices": ["200円", "400円", "800円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0024", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "もうしこみは どこで しますか。",
+    "passage": "【日本語教室の お知らせ】\n毎週 土曜日 10:00～12:00\nばしょ：みどり こうみんかん 2かい\nお金：1回 200円\nもうしこみ：こうみんかんの うけつけで",
+    "choices": ["こうみんかんの うけつけ", "駅の まどぐち", "しやくしょの うけつけ"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0025", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "来週の 月曜日、何時までに 着がえますか。",
+    "passage": "【工場の みなさんへ】\n来週の 月曜日から、朝の たいそうの 時間が かわります。\n今は 8時30分からですが、来週からは 8時15分からです。\n8時10分までに 着がえて、1かいに 集まって ください。",
+    "choices": ["8時10分", "8時15分", "8時30分"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0026", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "日曜日は 何時に しまりますか。",
+    "passage": "【スポーツジム】\n月～金：10:00～22:00\n土・日：9:00～18:00\n休み：毎月 15日",
+    "choices": ["午後 6時", "午後 10時", "午前 9時"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0027", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "休みの 日は いつですか。",
+    "passage": "【スポーツジム】\n月～金：10:00～22:00\n土・日：9:00～18:00\n休み：毎月 15日",
+    "choices": ["毎週 月曜日", "毎月 15日", "土曜日と 日曜日"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0028", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "サリさんは いつも 何時から 仕事を しますか。",
+    "passage": "サリさん\nあしたの 仕事は 朝 7時からです。いつもより 1時間 早いですから、気を つけて ください。\n6時45分までに ロッカーで 着がえて ください。\nてんちょう",
+    "choices": ["6時", "7時", "8時"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0029", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "サリさんは あした、6時45分までに 何を しますか。",
+    "passage": "サリさん\nあしたの 仕事は 朝 7時からです。いつもより 1時間 早いですから、気を つけて ください。\n6時45分までに ロッカーで 着がえて ください。\nてんちょう",
+    "choices": ["着がえます", "店に 電話します", "朝ごはんを 食べます"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0030", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "おゆを 入れた あとで、何分 待ちますか。",
+    "passage": "【カップラーメンの 作り方】\n1. ふたを 半分 あけます。\n2. おゆを 中の 線まで 入れます。\n3. ふたを して、3分 待ちます。",
+    "choices": ["1分", "3分", "5分"], "answerIndex": 1
+  }
+]

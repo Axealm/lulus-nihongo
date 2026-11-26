@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0041",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kata kerjanya たべました (makan), jadi yang cocok adalah たまご (telur). おちゃ (teh) dan みず (air) diminum, bukan dimakan."
+  },
+  {
+    "id": "voc-0042",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Kalau mesin mengeluarkan bunyi aneh, segera beri tahu (　　).” Yang diberi tahu adalah orang, yaitu リーダー (ketua regu). ロッカー = loker, レジ = kasir."
+  },
+  {
+    "id": "voc-0043",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Karena tidak tahu jalan, kita melihat peta: ちずを みます. ききます = mendengar / bertanya, あらいます = mencuci."
+  },
+  {
+    "id": "voc-0044",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "おおい berarti “banyak”. “この まちは ひとが おおいです” = “Kota ini banyak orangnya.” おおい adalah kata sifat, jadi tidak bisa langsung diikuti を atau に."
+  },
+  {
+    "id": "voc-0045",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "しんぱい berarti “khawatir”. “ははの びょうきが しんぱいです” = “Saya khawatir dengan penyakit ibu saya.” Kata ini bukan makanan dan tidak dipakai untuk menilai film."
+  },
+  {
+    "id": "voc-0046",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "ならぶ berarti “berbaris / mengantre”. “みせの まえに ひとが たくさん ならんで います” = “Banyak orang mengantre di depan toko.” Untuk “belajar” dipakai ならって (dari ならう)."
+  },
+  {
+    "id": "voc-0047",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "男 dibaca おとこ, artinya “laki-laki”. おんな (女) = perempuan, おとな (大人) = orang dewasa."
+  },
+  {
+    "id": "voc-0048",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "薬 dibaca くすり, artinya “obat”. Huruf pertamanya く (tanpa tanda ゛) dan huruf keduanya す."
+  },
+  {
+    "id": "voc-0049",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Yang diminum saat haus adalah みず (air), ditulis 水. 木 (き) berarti pohon dan 火 (ひ) berarti api."
+  },
+  {
+    "id": "voc-0050",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Gedung berlantai 50 itu tinggi: たかい, ditulis 高い. 低い (ひくい) berarti rendah, 安い (やすい) berarti murah."
+  }
+]

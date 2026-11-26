@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0001",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Kemarin saya (　　) sayur di supermarket.” Yang cocok adalah かいました (membeli). のみました = minum, よみました = membaca."
+  },
+  {
+    "id": "voc-0002",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "べんり berarti “praktis / memudahkan”, dipakai untuk benda, alat, atau tempat. “この アプリは とても べんりです” = “Aplikasi ini sangat praktis.” Kata ini tidak dipakai untuk cuaca dan bukan sesuatu yang bisa dimakan."
+  },
+  {
+    "id": "voc-0003",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "会社 dibaca かいしゃ, artinya “perusahaan / kantor”. Bunyi awalnya か (bukan が) dan akhirnya しゃ (bukan じゃ)."
+  },
+  {
+    "id": "voc-0004",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Di (　　) stasiun ada minimarket.” Yang tepat adalah 前 (まえ = depan): えきの まえ = di depan stasiun. 午 dipakai pada kata seperti 午前 (pagi), dan 半 berarti setengah."
+  },
+  {
+    "id": "voc-0005",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Karena barangnya berat, tolong (　　).” Yang cocok adalah てつだって ください (tolong bantu), dari kata てつだいます. あそんで = bermain, やすんで = beristirahat."
+  },
+  {
+    "id": "voc-0006",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "かおを あらいます berarti “mencuci muka”. はらいます = membayar, わらいます = tertawa. Bunyinya mirip, jadi perhatikan huruf pertamanya."
+  },
+  {
+    "id": "voc-0007",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "あつい berarti “panas” dan merupakan kata sifat. “きょうは とても あついです” = “Hari ini sangat panas.” Kata sifat tidak bisa langsung diikuti を atau に seperti pada dua kalimat lainnya."
+  },
+  {
+    "id": "voc-0008",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "電車 dibaca でんしゃ, artinya “kereta listrik”. 電 dibaca でん (dengan tanda ゛) dan 車 dibaca しゃ."
+  },
+  {
+    "id": "voc-0009",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "くすりを のみます berarti “minum obat”, dan のみます ditulis 飲みます. 読みます (よみます) = membaca, 休みます (やすみます) = beristirahat."
+  },
+  {
+    "id": "voc-0010",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Karena kamarnya gelap, saya (　　) lampu.” でんきを つけます = menyalakan lampu. けします = mematikan, しめます = menutup."
+  }
+]

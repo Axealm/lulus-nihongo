@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0041", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：日本語の 勉強は どうですか。\nB：むずかしいです (　　)、おもしろいです。",
+    "choices": ["が", "から", "ので"], "answerIndex": 0
+  },
+  {
+    "id": "con-0042", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：きょうだいが いますか。\nB：はい、兄が 2人 (　　)。",
+    "choices": ["あります", "います", "です"], "answerIndex": 1
+  },
+  {
+    "id": "con-0043", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：この 本、もう 読みましたか。\nB：はい。とても おもしろかったですから、リンさんも 読んで (　　)。",
+    "choices": ["いて ください", "あって ください", "みて ください"], "answerIndex": 2
+  },
+  {
+    "id": "con-0044", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：あしたは 何時に 来れば いいですか。\nB：9時までに (　　)。",
+    "choices": ["来て ください", "来ないで ください", "来ましたか"], "answerIndex": 0
+  },
+  {
+    "id": "con-0045", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：日本へ 来た とき、日本語が 話せましたか。\nB：いいえ、ぜんぜん (　　)。",
+    "choices": ["話せました", "話せませんでした", "話しません"], "answerIndex": 1
+  },
+  {
+    "id": "con-0046", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：空が 暗いですね。雨が ふり (　　) ですね。\nB：そうですね。かさを 持って いきましょう。",
+    "choices": ["そう", "よう", "らしい"], "answerIndex": 0
+  },
+  {
+    "id": "con-0047", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：お元気ですか。\nB：はい、(　　)。",
+    "choices": ["おだいじに", "おつかれさま", "おかげさまで"], "answerIndex": 2
+  },
+  {
+    "id": "con-0048", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "(店で)\nA：すみません、これは いくらですか。\nB：(　　)。",
+    "choices": ["あそこです", "500円です", "3時です"], "answerIndex": 1
+  },
+  {
+    "id": "con-0049", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：すみません、電車が 止まって、会議に 10分ぐらい おくれます。\nB：わかりました。(　　)。",
+    "choices": ["おめでとう ございます", "いただきます", "気を つけて 来て ください"], "answerIndex": 2
+  },
+  {
+    "id": "con-0050", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(病院で)\nA：どう しましたか。\nB：きのうから せきが (　　)。",
+    "choices": ["止まりましょう", "止まらないんです", "止まって ください"], "answerIndex": 1
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lis-0001", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おとこの ひとは しゅうまつ、なにを しましたか。",
+    "audio": "audio/lis-0001.mp3",
+    "transcript": "おんな：たなかさん、しゅうまつは なにを しましたか。\nおとこ：ともだちと サッカーを しました。たのしかったです。",
+    "choices": ["サッカーを しました", "えいがを みました", "かいものを しました"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0002", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "おとこの ひとは いくら はらいますか。",
+    "audio": "audio/lis-0002.mp3",
+    "transcript": "おとこ：すみません、この りんごは いくらですか。\nおんな：ひとつ ひゃくごじゅうえんです。\nおとこ：じゃあ、みっつ ください。\nおんな：はい、よんひゃくごじゅうえんです。",
+    "choices": ["150えん", "300えん", "450えん"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0003", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとは どの えきで おりますか。",
+    "audio": "audio/lis-0003.mp3",
+    "transcript": "おとこ：すみません、さくらえきに いきたいんですが。\nおんな：さくらえきですね。にばんせんの でんしゃに のって、みっつめの えきで おりて ください。\nおとこ：みっつめですね。ありがとうございます。",
+    "choices": ["ふたつめの えき", "みっつめの えき", "よっつめの えき"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0004", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "あした、なにを もって いきますか。",
+    "audio": "audio/lis-0004.mp3",
+    "transcript": "おんな：みなさん、あしたの あさは はちじに こうじょうの まえに あつまって ください。ぼうしと てぶくろを わすれないで ください。",
+    "choices": ["ぼうしと てぶくろ", "べんとうと みず", "かさと くつ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0005", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "しごとが おわったら、はじめに なにを しますか。",
+    "audio": "audio/lis-0005.mp3",
+    "transcript": "おとこ：しごとが おわったら、まず きかいの スイッチを きって ください。それから、てを あらって、へやを でて ください。",
+    "choices": ["てを あらいます", "きかいの スイッチを きります", "へやを でます"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0006", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おんなの ひとの きょうだいは なんにん ですか。",
+    "audio": "audio/lis-0006.mp3",
+    "transcript": "おとこ：リンさん、きょうだいは いますか。\nおんな：はい、あにが ひとりと いもうとが ふたり います。",
+    "choices": ["ふたり", "さんにん", "よにん"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0007", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おんなの ひとは なにを たべますか。",
+    "audio": "audio/lis-0007.mp3",
+    "transcript": "おんな：たなかさん、おひるごはんは なにを たべますか。\nおとこ：きょうは べんとうを もって きました。さとうさんは？\nおんな：わたしは しょくどうで うどんを たべます。",
+    "choices": ["べんとう", "ラーメン", "うどん"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0008", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "おとこの ひとは サンドイッチを いくつ かいますか。",
+    "audio": "audio/lis-0008.mp3",
+    "transcript": "おんな：いらっしゃいませ。\nおとこ：コーヒーを ふたつと、サンドイッチを ひとつ ください。\nおんな：はい、コーヒー ふたつと サンドイッチ ひとつですね。",
+    "choices": ["ひとつ", "ふたつ", "みっつ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0009", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとは どんな シャツを かいますか。",
+    "audio": "audio/lis-0009.mp3",
+    "transcript": "おとこ：すみません、この シャツ、もう すこし おおきいのは ありますか。\nおんな：もうしわけ ありません。おおきい サイズは しろしか ありません。\nおとこ：そうですか。じゃあ、しろを ください。",
+    "choices": ["ちいさい しろの シャツ", "おおきい くろの シャツ", "おおきい しろの シャツ"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0010", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "あしたの かいぎは どこで ありますか。",
+    "audio": "audio/lis-0010.mp3",
+    "transcript": "おとこ：みなさん、おつかれさまです。あしたは あさ くじから かいぎが あります。ばしょは にかいの かいぎしつです。ノートと ペンを もって きて ください。",
+    "choices": ["いっかいの しょくどう", "にかいの かいぎしつ", "さんがいの じむしょ"], "answerIndex": 1
+  }
+]

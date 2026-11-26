@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lis-0031", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おんなの ひとは どちらが すきですか。",
+    "audio": "audio/lis-0031.mp3",
+    "transcript": "おとこ：コーヒーと こうちゃと、どちらが すきですか。\nおんな：こうちゃの ほうが すきです。まいあさ のみます。",
+    "choices": ["コーヒー", "こうちゃ", "ジュース"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0032", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "あしたは なんようびですか。",
+    "audio": "audio/lis-0032.mp3",
+    "transcript": "おんな：きょうは なんようびですか。\nおとこ：もくようびです。あしたは きんようびですね。",
+    "choices": ["すいようび", "もくようび", "きんようび"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0033", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おんなの ひとは なにが うれしかったですか。",
+    "audio": "audio/lis-0033.mp3",
+    "transcript": "おとこ：にほんの ふゆは どうですか。\nおんな：わたしの くには いつも あついので、はじめは さむくて たいへんでした。でも、ゆきを はじめて みて、うれしかったです。",
+    "choices": ["ゆきを みた こと", "くにへ かえった こと", "あつかった こと"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0034", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おとこの ひとは あした、どうやって いきますか。",
+    "audio": "audio/lis-0034.mp3",
+    "transcript": "おんな：あした、えきまで くるまで むかえに いきましょうか。\nおとこ：ありがとうございます。でも、バスで いきますから、だいじょうぶです。\nおんな：そうですか。じゃあ、かいしゃで まって います。",
+    "choices": ["くるまで いきます", "バスで いきます", "あるいて いきます"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0035", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "こどもは いくらですか。",
+    "audio": "audio/lis-0035.mp3",
+    "transcript": "おとこ：すみません、この バスは いくらですか。\nおんな：おとなが にひゃくえん、こどもが ひゃくえんです。",
+    "choices": ["100えん", "200えん", "300えん"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0036", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとは どう しますか。",
+    "audio": "audio/lis-0036.mp3",
+    "transcript": "おんな：おべんとうを あたためますか。\nおとこ：はい、おねがいします。\nおんな：ふくろを おつけしますか。\nおとこ：いいえ、いりません。",
+    "choices": ["べんとうを あたためて、ふくろも もらいます", "べんとうを あたためて、ふくろは もらいません", "べんとうを あたためないで、ふくろを もらいます"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0037", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとの よやくは なんじですか。",
+    "audio": "audio/lis-0037.mp3",
+    "transcript": "おとこ：もしもし、あしたの よやくを したいんですが。\nおんな：はい。ごぜんの じかんは もう いっぱいです。ごごの さんじは いかがですか。\nおとこ：さんじには しごとが あります。ごじは どうですか。\nおんな：はい、ごじなら だいじょうぶです。",
+    "choices": ["ごぜん 10じ", "ごご 3じ", "ごご 5じ"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0038", "section": "listening", "category": "announcement", "level": "A1",
+    "prompt": "つくえの うえに なにを だしますか。",
+    "audio": "audio/lis-0038.mp3",
+    "transcript": "おとこ：みなさん、テストを はじめます。ほんと ノートを かばんに いれて ください。えんぴつだけ つくえの うえに だして ください。",
+    "choices": ["ほん", "ノート", "えんぴつ"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0039", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "しごとの とき、しては いけない ことは なんですか。",
+    "audio": "audio/lis-0039.mp3",
+    "transcript": "おんな：しごとの まえに、かならず てを あらって ください。それから、ぼうしを かぶって、マスクを して ください。ゆびわと とけいを はずして ください。",
+    "choices": ["とけいを する こと", "マスクを する こと", "ぼうしを かぶる こと"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0040", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "さかなは どのぐらい やすく なりますか。",
+    "audio": "audio/lis-0040.mp3",
+    "transcript": "おとこ：おきゃくさまに おしらせします。きょう、にくと さかなが やすく なって います。にくが さんじゅっパーセント びき、さかなが はんがくです。ゆうがた ろくじまでです。",
+    "choices": ["30パーセント", "50パーセント", "60パーセント"], "answerIndex": 1
+  }
+]

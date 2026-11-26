@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0041", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "あさごはんに パンと (　　)を たべました。",
+    "choices": ["おちゃ", "たまご", "みず"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0042", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "きかいから へんな おとが したら、すぐ (　　)に しらせて ください。",
+    "choices": ["リーダー", "ロッカー", "レジ"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0043", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "みちが わからないので、ちずを (　　)。",
+    "choices": ["ききます", "あらいます", "みます"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0044", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「おおい」",
+    "choices": ["おおいを かいました。", "この まちは ひとが おおいです。", "わたしは おおいに いきます。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0045", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「しんぱい」",
+    "choices": ["ははの びょうきが しんぱいです。", "しんぱいを たべました。", "この えいがは とても しんぱいです。"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0046", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「ならぶ」",
+    "choices": ["にほんごを がっこうで ならんで います。", "かぜが ならんで います。", "みせの まえに ひとが たくさん ならんで います。"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0047", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "あそこに __男__の ひとが います。",
+    "choices": ["おんな", "おとな", "おとこ"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0048", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "この __薬__は あさ のみます。",
+    "choices": ["くつり", "くすり", "ぐすり"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0049", "section": "vocabulary", "category": "kanji-meaning", "level": "A1",
+    "prompt": "のどが かわいたので、(　　)を のみます。",
+    "choices": ["木", "火", "水"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0050", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "あの ビルは 50かい あります。とても (　　)いです。",
+    "choices": ["高", "低", "安"], "answerIndex": 0
+  }
+]

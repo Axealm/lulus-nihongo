@@ -1,0 +1,31 @@
+# 静的ホスティング(Cloudflare Pages など)向けのキャッシュ設定
+
+# 更新をすぐ反映させたいファイル
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/registerSW.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+# ファイル名に内容のハッシュが入るので、長く保存してよい
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 音声と画像。内容を直したときは 1 週間以内に反映される
+/audio/*
+  Cache-Control: public, max-age=604800
+/images/*
+  Cache-Control: public, max-age=604800
+/og/*
+  Cache-Control: public, max-age=604800
+
+# 検索エンジンには、独自ドメイン(lulusnihongo.com)だけを載せてもらう。
+# Cloudflare が付ける pages.dev のアドレスは、同じ内容が二重に載らないよう、検索の対象から外す。
+# (アドレス自体は今までどおり開ける。Cloudflare Pages の公式ドキュメントにある書き方)
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

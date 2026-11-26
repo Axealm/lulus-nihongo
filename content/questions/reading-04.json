@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rea-0031", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "せんたくは 1回 いくらですか。",
+    "passage": "【コインランドリー】\nせんたく：1回 300円(30分)\nかんそう：10分 100円\n時間：6:00～24:00",
+    "choices": ["300円", "100円", "30円"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0032", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "かんそうを 20分 します。いくらですか。",
+    "passage": "【コインランドリー】\nせんたく：1回 300円(30分)\nかんそう：10分 100円\n時間：6:00～24:00",
+    "choices": ["100円", "200円", "300円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0033", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "チャンさんは あした 何を しますか。",
+    "passage": "やまださん\nきのうは ありがとう ございました。\nかりた かさは、あした 会社で かえします。\nチャン",
+    "choices": ["かさを かえします", "かさを 買います", "かさを かります"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0034", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "この 人は はじめ、どうして こまりましたか。",
+    "passage": "わたしは 3か月前に 日本に 来ました。今、工場で はたらいて います。\nはじめは 日本語が わからなくて、こまりました。\nでも、会社の 人が やさしく 教えて くれたので、今は 仕事が 楽しいです。\n来年は 日本語の 試験を 受けたいです。",
+    "choices": ["仕事が 多かったから", "日本語が わからなかったから", "会社の 人が こわかったから"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0035", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "この 人は 来年、何を したいですか。",
+    "passage": "わたしは 3か月前に 日本に 来ました。今、工場で はたらいて います。\nはじめは 日本語が わからなくて、こまりました。\nでも、会社の 人が やさしく 教えて くれたので、今は 仕事が 楽しいです。\n来年は 日本語の 試験を 受けたいです。",
+    "choices": ["国へ 帰りたい", "仕事を かえたい", "日本語の 試験を 受けたい"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0036", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "はじめに 何を しますか。",
+    "passage": "【はじめての 方へ】\n1. うけつけで ほけんしょうを 出して ください。\n2. もんしんひょうを 書いて ください。\n3. 名前を よばれるまで、待って いて ください。\n※ ほけんしょうが ない 方は、うけつけの 人に 言って ください。",
+    "choices": ["もんしんひょうを 書きます", "ほけんしょうを 出します", "いすに すわって 待ちます"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0037", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "ほけんしょうを 持って いない 人は、どう しますか。",
+    "passage": "【はじめての 方へ】\n1. うけつけで ほけんしょうを 出して ください。\n2. もんしんひょうを 書いて ください。\n3. 名前を よばれるまで、待って いて ください。\n※ ほけんしょうが ない 方は、うけつけの 人に 言って ください。",
+    "choices": ["うけつけの 人に 言います", "うちへ 帰ります", "もんしんひょうを 書きません"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0038", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "4,000円の くつは いくらに なりますか。",
+    "passage": "【バーゲンセール】\nデパートさくら 3がい\n7月20日(金)～22日(日)\nシャツ：ぜんぶ 1,000円\nくつ：半がく\n※ 22日は 午後5時まで",
+    "choices": ["1,000円", "2,000円", "3,000円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0039", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "セールは いつまでですか。",
+    "passage": "【バーゲンセール】\nデパートさくら 3がい\n7月20日(金)～22日(日)\nシャツ：ぜんぶ 1,000円\nくつ：半がく\n※ 22日は 午後5時まで",
+    "choices": ["7月20日", "7月21日", "7月22日"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0040", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "へやの かぎは どこに ありますか。",
+    "passage": "アリさん\nへやの かぎを うけつけに あずけました。\nわたしは 今日 しゅっちょうで、帰りは 夜 10時ごろに なります。\n先に ばんごはんを 食べて いて ください。\nハサン",
+    "choices": ["うけつけ", "ハサンさんの かばんの 中", "へやの 中"], "answerIndex": 0
+  }
+]

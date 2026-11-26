@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0011",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "のどが かわきました berarti “haus”. Karena itu yang cocok adalah みずを のみたいです (ingin minum air). たべたい = ingin makan, よみたい = ingin membaca."
+  },
+  {
+    "id": "voc-0012",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Surat (てがみ) dikirim di ゆうびんきょく (kantor pos). びょういん = rumah sakit, ぎんこう = bank."
+  },
+  {
+    "id": "voc-0013",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Besok saya tidak bisa pergi bermain karena pekerjaan (　　).” Yang cocok adalah いそがしい (sibuk). やさしい = mudah / baik hati, おいしい = enak."
+  },
+  {
+    "id": "voc-0014",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Kereta (　　), jadi saya terlambat ke kantor.” Yang cocok adalah とまって (berhenti). はしって = melaju, のって = naik."
+  },
+  {
+    "id": "voc-0015",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "たかい berarti “mahal” atau “tinggi”. Tas seharga 50.000 yen itu mahal, jadi kalimat ini benar. たかい adalah kata sifat, jadi tidak bisa langsung diikuti を atau に."
+  },
+  {
+    "id": "voc-0016",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "かたづける berarti “membereskan / merapikan”. “しごとの あとで、どうぐを かたづけます” = “Setelah bekerja, saya membereskan peralatan.” Kata ini tidak dipakai untuk hujan atau bus."
+  },
+  {
+    "id": "voc-0017",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "おくれる berarti “terlambat”. “みちが こんで いて、かいぎに おくれました” = “Karena jalan macet, saya terlambat rapat.” Untuk “mengirim buku” dipakai おくりました (dari おくる), kata yang berbeda."
+  },
+  {
+    "id": "voc-0018",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "右 dibaca みぎ, artinya “kanan”. ひだり (左) berarti “kiri”. Kalimatnya: “Toilet ada di sebelah kanan.”"
+  },
+  {
+    "id": "voc-0019",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "病院 dibaca びょういん, artinya “rumah sakit”. Hati-hati: びよういん (美容院) berarti “salon”. Bedanya ada pada ょ kecil."
+  },
+  {
+    "id": "voc-0020",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Setelah 月よう日 (Senin) adalah 火よう日 (Selasa). 水よう日 = Rabu, 日よう日 = Minggu."
+  }
+]

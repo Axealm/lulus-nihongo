@@ -1,0 +1,267 @@
+[
+  {
+    "id": "voc-1001",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Karena dingin, tolong (　　) jendelanya.” Yang cocok adalah しめて (menutup). あけて = membuka, つけて = menyalakan."
+  },
+  {
+    "id": "voc-1002",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimat kedua menyebut ayah, ibu, dan kakak perempuan, jadi yang dibicarakan adalah かぞく (keluarga): “Keluarga saya empat orang.” しごと = pekerjaan, へや = kamar."
+  },
+  {
+    "id": "voc-1003",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "はいしゃ berarti “dokter gigi”, jadi yang sakit adalah は (gigi). あし = kaki, おなか = perut."
+  },
+  {
+    "id": "voc-1004",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Kalimatnya berarti “Peralatan yang sudah dipakai (　　) ke tempat semula.” Yang cocok adalah もどします (mengembalikan). おとします = menjatuhkan, こわします = merusak."
+  },
+  {
+    "id": "voc-1005",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "げんき berarti “sehat / bersemangat” dan dipakai untuk orang. “そぼは 80さいですが、とても げんきです” = “Nenek saya berusia 80 tahun, tetapi sangat sehat.” Kata ini tidak dipakai untuk masakan dan bukan sesuatu yang diminum."
+  },
+  {
+    "id": "voc-1006",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "まにあう berarti “sempat / tidak terlambat”. “はしったので、バスに まにあいました” = “Karena berlari, saya sempat naik bus.” Untuk “pakaian cocok” dipakai にあいます, dan untuk “bertemu” dipakai あいます."
+  },
+  {
+    "id": "voc-1007",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "こわれる berarti “rusak” dan dipakai untuk benda atau mesin. “せんたくきが こわれて、つかえません” = “Mesin cucinya rusak, jadi tidak bisa dipakai.” Kata ini tidak dipakai untuk salju atau pekerjaan."
+  },
+  {
+    "id": "voc-1008",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "水 dibaca みず, artinya “air”. Bunyi keduanya ず (dengan tanda ゛) dan tidak dipanjangkan."
+  },
+  {
+    "id": "voc-1009",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "受付 dibaca うけつけ, artinya “loket / resepsionis”. Semua bunyinya tanpa tanda ゛: う・け・つ・け."
+  },
+  {
+    "id": "voc-1010",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "毎週 dibaca まいしゅう, artinya “setiap minggu”. 週 dibaca しゅう dengan bunyi panjang, bukan しゅ atau じゅう."
+  },
+  {
+    "id": "voc-1011",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Untuk menyebut jam dipakai 時 (じ): 3時 30ぷん = pukul 3 lewat 30 menit. 分 dipakai untuk menit dan 日 untuk hari atau tanggal."
+  },
+  {
+    "id": "voc-1012",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "あるいて (berjalan kaki) ditulis 歩いて: “Dari rumah ke stasiun 10 menit berjalan kaki.” 走 dipakai pada 走って (はしって = berlari) dan 働 pada 働いて (はたらいて = bekerja)."
+  },
+  {
+    "id": "voc-1013",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Karena diajak menyalakan lampu, kamarnya くらい (gelap), ditulis 暗い. 広い (ひろい) berarti luas, dan 明 dipakai pada 明るい (あかるい = terang)."
+  },
+
+  {
+    "id": "con-1001",
+    "instruction": "A bertanya tentang hari Minggu yang lalu. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pertanyaannya memakai bentuk lampau (しましたか), jadi jawabannya juga bentuk lampau: 見ました (menonton). 見ます adalah bentuk sekarang, 見ましょう berarti “mari menonton”."
+  },
+  {
+    "id": "con-1002",
+    "instruction": "A bertanya bagaimana B datang ke kantor. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Partikel で menunjukkan alat atau kendaraan: 何で 来ますか = “datang naik apa?”. B menjawab バスで (naik bus). に menandai tujuan, を menandai objek."
+  },
+  {
+    "id": "con-1003",
+    "instruction": "A menawarkan minuman kepada B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Untuk memilih satu dari dua hal dipakai どちら (yang mana): “Kopi atau teh, mau yang mana?”. どなた berarti “siapa” (sopan), いくら berarti “berapa harganya”."
+  },
+  {
+    "id": "con-1004",
+    "instruction": "A bertanya apakah B sudah makan siang. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menjawab いいえ (belum), jadi dipakai まだ 〜て いません: まだ 食べて いません = “belum makan”. もう 食べました berarti “sudah makan”, dan まだ tidak dipakai bersama bentuk lampau positif."
+  },
+  {
+    "id": "con-1005",
+    "instruction": "A bertanya kapan obatnya diminum. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Sebelum あとで (setelah) dipakai bentuk た: 食べた あとで = “setelah makan”. Bentuk kamus (食べる) dipakai sebelum まえに (sebelum)."
+  },
+  {
+    "id": "con-1006",
+    "instruction": "A memuji bahasa Jepang B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ように なります berarti “menjadi bisa …”: 話せるように なりたいです = “saya ingin menjadi bisa berbicara”. Pola ini dipakai dengan bentuk potensial seperti 話せる. ために dan ことに tidak dipakai dalam pola ini."
+  },
+  {
+    "id": "con-1007",
+    "instruction": "A mengingatkan B tentang rapat besok. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ては いけません berarti “tidak boleh …”: おくれては いけません = “tidak boleh terlambat”. おくれても berarti “walaupun terlambat”, おくれたら berarti “kalau terlambat”."
+  },
+  {
+    "id": "con-1008",
+    "instruction": "Dua orang baru pertama kali bertemu. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Jawaban untuk どうぞ よろしく adalah こちらこそ よろしく おねがいします (sama-sama, senang berkenalan dengan Anda). おかげさまで 元気です adalah jawaban untuk pertanyaan kabar, いってらっしゃい diucapkan kepada orang yang berangkat."
+  },
+  {
+    "id": "con-1009",
+    "instruction": "A menawarkan kopi lagi kepada B. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menjawab いいえ (tidak), jadi ia menolak dengan sopan: けっこうです (tidak usah, terima kasih). いただきます dan おねがいします dipakai kalau menerima tawaran."
+  },
+  {
+    "id": "con-1010",
+    "instruction": "Di kantor, A sakit kepala dan berbicara dengan atasannya. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "A meminta izin, jadi memakai 〜ても いいですか: 早く 帰っても いいですか = “bolehkah saya pulang lebih awal?”. 帰りましょうか adalah tawaran, 帰って ください adalah permintaan kepada orang lain."
+  },
+  {
+    "id": "con-1011",
+    "instruction": "Di stasiun, A bertanya kepada petugas. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜ば いいですか dipakai untuk meminta petunjuk: どの 電車に 乗れば いいですか = “saya sebaiknya naik kereta yang mana?”. B menjawab kereta di jalur 2. Pilihan lain menanyakan hal yang sudah lewat atau kesukaan."
+  },
+  {
+    "id": "con-1012",
+    "instruction": "A tidak tahu cara mengisi sebuah dokumen. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menawarkan bantuan: いっしょに 書きましょう = “mari kita tulis bersama”. 書かないで ください berarti “jangan menulis”, 書いた ことが あります berarti “pernah menulis”."
+  },
+  {
+    "id": "con-1013",
+    "instruction": "A minta maaf karena minggu lalu tidak masuk kerja. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menanyakan kondisi badan A: 体は もう 大丈夫ですか = “badan Anda sudah tidak apa-apa?”. A menjawab sudah sehat. 大変 berarti “berat / repot” dan 大好き berarti “sangat suka”."
+  },
+
+  {
+    "id": "lis-1001",
+    "instruction": "Dengarkan percakapan. Bagaimana cuaca besok?",
+    "explanation": "Hari ini dingin (さむい), tetapi perempuan berkata あしたは あたたかく なりますよ (besok akan menjadi hangat).",
+    "transcriptTranslation": "Laki-laki: Selamat pagi. Hari ini dingin, ya.\nPerempuan: Iya. Tapi besok akan menjadi hangat."
+  },
+  {
+    "id": "lis-1002",
+    "instruction": "Dengarkan percakapan. Apa hobi laki-laki itu?",
+    "explanation": "Ia berkata りょうりです (memasak), lalu menjelaskan bahwa pada hari libur ia sering membuat makan malam untuk keluarganya. りょこう (bepergian) bunyinya mirip, jadi dengarkan baik-baik.",
+    "transcriptTranslation": "Perempuan: Hobi Anda apa?\nLaki-laki: Memasak. Pada hari libur, saya sering membuat makan malam untuk keluarga."
+  },
+  {
+    "id": "lis-1003",
+    "instruction": "Dengarkan percakapan. Menurut laki-laki itu, apa yang kurang baik dari perjalanannya?",
+    "explanation": "Cuacanya sejuk (すずしくて) dan makanannya enak. Setelah でも (tetapi), ia berkata ホテルが ちょっと たかかったです (hotelnya agak mahal). ねだん berarti “harga”.",
+    "transcriptTranslation": "Perempuan: Bagaimana liburan musim panasnya?\nLaki-laki: Saya pergi ke Hokkaido bersama keluarga. Udaranya sejuk dan makanannya juga enak. Tapi hotelnya agak mahal."
+  },
+  {
+    "id": "lis-1004",
+    "instruction": "Dengarkan percakapan di tempat kerja. Apa yang dilakukan perempuan itu setelah ini?",
+    "explanation": "Ia lembur sampai pukul 7 (しちじまで ざんぎょう). Laki-laki memintanya datang ke restoran pukul 7.30, dan ia menjawab じゃあ、あとで いきます (kalau begitu, saya menyusul nanti). Jadi ia pergi setelah bekerja.",
+    "transcriptTranslation": "Laki-laki: Lee, malam ini kami semua pergi makan. Mau ikut?\nPerempuan: Saya ingin ikut, tapi hari ini saya lembur sampai pukul 7.\nLaki-laki: Kalau begitu, datang ke restoran di depan stasiun pukul 7.30. Kami berangkat dulu dan menunggu di sana.\nPerempuan: Terima kasih. Kalau begitu, saya menyusul nanti."
+  },
+  {
+    "id": "lis-1005",
+    "instruction": "Dengarkan percakapan di stasiun. Di mana loket karcis?",
+    "explanation": "Perempuan berkata あの かいだんを おりて、みぎに あります (turun tangga itu, ada di sebelah kanan). おりて berarti “turun”, みぎ berarti “kanan”.",
+    "transcriptTranslation": "Laki-laki: Permisi, loket karcis di mana?\nPerempuan: Turun tangga itu, ada di sebelah kanan."
+  },
+  {
+    "id": "lis-1006",
+    "instruction": "Dengarkan percakapan. Laki-laki itu minum apa?",
+    "explanation": "Ia berkata つめたい おちゃを ください (saya minta teh dingin). つめたい = dingin, あつい = panas.",
+    "transcriptTranslation": "Perempuan: Mau minum apa?\nLaki-laki: Saya minta teh dingin.\nPerempuan: Baik, teh dingin, ya."
+  },
+  {
+    "id": "lis-1007",
+    "instruction": "Dengarkan percakapan di kantor pemerintah kota. Apa yang pertama kali dilakukan laki-laki itu?",
+    "explanation": "Petugas berkata さきに あちらの かみを かいてから、にばんの まどぐちに だして ください (tulis dulu formulir di sana, baru serahkan ke loket nomor 2). さきに berarti “lebih dulu” dan 〜てから berarti “setelah …”. Kartu izin tinggal sudah ia miliki.",
+    "transcriptTranslation": "Laki-laki: Permisi, alamat saya berubah. Di mana saya mengurusnya?\nPerempuan: Di loket nomor 2. Apakah Anda membawa kartu izin tinggal?\nLaki-laki: Ya, ada.\nPerempuan: Kalau begitu, tulis dulu formulir di sana, lalu serahkan ke loket nomor 2."
+  },
+  {
+    "id": "lis-1008",
+    "instruction": "Dengarkan penjelasan di apotek. Kapan obat putih diminum?",
+    "explanation": "Obat putih (しろい くすり) diminum あさと よるの ごはんの あとで (setelah makan pagi dan malam), masing-masing satu butir. Yang diminum hanya saat demam adalah obat merah (あかい くすり).",
+    "transcriptTranslation": "Perempuan: Obatnya untuk tiga hari. Obat putih ini diminum setelah makan pagi dan malam, masing-masing satu butir. Obat merah diminum hanya saat demam.\nLaki-laki: Baik, saya mengerti."
+  },
+  {
+    "id": "lis-1009",
+    "instruction": "Dengarkan pengumuman. Pukul berapa harus kembali?",
+    "explanation": "Sekarang pukul 12 (じゅうにじ) dan waktunya istirahat siang. Pembicara berkata いちじに ここに もどって きて ください (kembalilah ke sini pukul 1).",
+    "transcriptTranslation": "Perempuan: Semuanya, sekarang pukul 12. Waktunya istirahat siang. Tolong kembali ke sini pukul 1."
+  },
+  {
+    "id": "lis-1010",
+    "instruction": "Dengarkan pengumuman di toko. Kapan toko tutup?",
+    "explanation": "Pengumumannya: あと じゅっぷんで しまります (akan tutup 10 menit lagi). あと 〜で berarti “… lagi”, dan しまります berarti “tutup”.",
+    "transcriptTranslation": "Laki-laki: Pemberitahuan kepada para pelanggan. Toko ini akan tutup 10 menit lagi. Bagi yang belum selesai berbelanja, silakan menuju kasir."
+  },
+  {
+    "id": "lis-1011",
+    "instruction": "Dengarkan pengarahan pagi di pabrik. Mesin mana yang tidak boleh dipakai hari ini?",
+    "explanation": "Pembicara berkata さんばんの きかいが こわれて いますから、つかわないで ください (mesin nomor 3 rusak, jadi jangan dipakai). Yang dipakai adalah mesin nomor 1 dan 2. Pukul 3 adalah waktu tukang servis datang.",
+    "transcriptTranslation": "Laki-laki: Kita mulai pengarahan pagi. Hari ini mesin nomor 3 rusak, jadi jangan dipakai. Kita memakai mesin nomor 1 dan nomor 2. Tukang servis datang pukul 3 sore."
+  },
+  {
+    "id": "lis-1012",
+    "instruction": "Dengarkan pengumuman tentang wisata bus. Besok harus membawa apa?",
+    "explanation": "Makan siang disediakan oleh perusahaan (おひるごはんは こちらで よういします), jadi cukup membawa minuman: のみものだけ もって きて ください. 〜だけ berarti “hanya”.",
+    "transcriptTranslation": "Perempuan: Ini pengumuman tentang wisata bus besok. Harap berkumpul di depan kantor pukul 7.30 pagi. Bus berangkat pukul 8. Makan siang kami sediakan, jadi cukup bawa minuman saja."
+  },
+
+  {
+    "id": "rea-1001",
+    "instruction": "Baca pesan berikut. Mengapa Tanaka tidak masuk kerja?",
+    "explanation": "Tertulis 今日は かぜで 会社を 休みます (hari ini saya tidak masuk kantor karena flu). かぜで berarti “karena flu / masuk angin”."
+  },
+  {
+    "id": "rea-1002",
+    "instruction": "Baca pesan berikut. Apa yang dilakukan Kim?",
+    "explanation": "Tanaka meminta: しりょうは わたしの つくえの 上に あります。ぶちょうに わたして ください (dokumennya ada di atas meja saya, tolong serahkan kepada kepala bagian). Dokumennya sudah ada, jadi Kim tidak perlu membuatnya."
+  },
+  {
+    "id": "rea-1003",
+    "instruction": "Lihat informasi kolam renang berikut. Dua orang dewasa dan satu anak pergi bersama. Berapa totalnya?",
+    "explanation": "大人 (dewasa) 500円 × 2 = 1.000円, ditambah 子ども (anak) 200円 × 1 = 200円. Totalnya 1.200円."
+  },
+  {
+    "id": "rea-1004",
+    "instruction": "Lihat informasi kolam renang berikut. Kolam renang libur pada hari apa?",
+    "explanation": "Tertulis 休み：火曜日. 火曜日 (かようび) berarti hari Selasa. 木曜日 = Kamis, 日曜日 = Minggu."
+  },
+  {
+    "id": "rea-1005",
+    "instruction": "Baca tulisan berikut. Mengapa mereka langsung turun gunung?",
+    "explanation": "Tertulis 昼から 雨が ふりました。それで … すぐ おりました (dari siang turun hujan, karena itu kami langsung turun). それで berarti “karena itu”. Bekalnya ada, hanya tidak dimakan di puncak."
+  },
+  {
+    "id": "rea-1006",
+    "instruction": "Baca tulisan berikut. Bagaimana pendapat orang ini tentang pendakian itu?",
+    "explanation": "Tertulis つかれましたが、楽しかったです (melelahkan, tetapi menyenangkan), dan ia ingin pergi lagi saat cuaca cerah (こんどは はれた 日に 行きたいです)."
+  },
+  {
+    "id": "rea-1007",
+    "instruction": "Baca pengumuman pemeriksaan kesehatan berikut. Orang di Grup B datang pukul berapa?",
+    "explanation": "Tertulis Bグループ 10:30～, jadi Grup B mulai pukul 10.30 (10時半). Pukul 9:00 untuk Grup A dan 13:00 (pukul 1 siang) untuk Grup C."
+  },
+  {
+    "id": "rea-1008",
+    "instruction": "Baca pengumuman pemeriksaan kesehatan berikut. Mulai pukul 9 malam sebelumnya, apa yang boleh dilakukan?",
+    "explanation": "Tertulis 何も 食べないで ください。水は 飲んでも いいです (jangan makan apa pun; air boleh diminum). 〜ても いいです berarti “boleh …”."
+  },
+  {
+    "id": "rea-1009",
+    "instruction": "Baca pesan berikut. Pukul 5.30, Lin pergi ke mana?",
+    "explanation": "Tertulis 5時半に 駅に 来て ください。車で むかえに 行きます (datanglah ke stasiun pukul 5.30, saya jemput dengan mobil). Pestanya di rumah Yamada mulai pukul 6, tetapi pukul 5.30 Lin ke stasiun dulu."
+  },
+  {
+    "id": "rea-1010",
+    "instruction": "Baca pesan berikut. Lin membawa apa ke pesta?",
+    "explanation": "Tertulis 食べ物は 用意しますから、何も 持って こなくても いいです (makanan saya siapkan, jadi tidak perlu membawa apa-apa). 〜なくても いいです berarti “tidak perlu …”."
+  },
+  {
+    "id": "rea-1011",
+    "instruction": "Baca lowongan kerja paruh waktu berikut. Anda bekerja 5 jam pada hari Minggu. Berapa upah yang Anda terima?",
+    "explanation": "じきゅう berarti upah per jam. Pada Sabtu dan Minggu (土・日) upahnya 1.200円 per jam, jadi 1.200 × 5 = 6.000円. Upah 1.100円 berlaku untuk hari biasa."
+  },
+  {
+    "id": "rea-1012",
+    "instruction": "Baca lowongan kerja paruh waktu berikut. Orang seperti apa yang bisa melamar pekerjaan ini?",
+    "explanation": "Syaratnya tertulis di bagian ※: 日本語で かんたんな 会話が できる 人 (orang yang bisa bercakap-cakap sederhana dalam bahasa Jepang). Selain itu harus bekerja 1週間に 3日 以上 (minimal 3 hari seminggu), jadi 2 hari saja tidak cukup."
+  }
+]

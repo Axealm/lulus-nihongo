@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rea-0041",
+    "instruction": "Lihat menu makan siang berikut. Paket makan siang mana yang paling murah?",
+    "explanation": "Harganya: Aランチ 700円, Bランチ 750円, Cランチ 650円. Yang paling murah (いちばん 安い) adalah Cランチ."
+  },
+  {
+    "id": "rea-0042",
+    "instruction": "Lihat menu makan siang berikut. Anda memesan paket B dan kopi. Berapa totalnya?",
+    "explanation": "Bランチ 750円, dan pada bagian ※ tertulis コーヒーは +100円 (kopi tambah 100 yen). Jadi 750 + 100 = 850円."
+  },
+  {
+    "id": "rea-0043",
+    "instruction": "Baca pengumuman berikut. Besok datang dengan pakaian seperti apa?",
+    "explanation": "Tertulis よごれても いい ふくで 来て ください (datanglah dengan pakaian yang boleh kotor), karena besok hari bersih-bersih. よごれます berarti “menjadi kotor”."
+  },
+  {
+    "id": "rea-0044",
+    "instruction": "Baca pengumuman berikut. Bersih-bersihnya berapa jam?",
+    "explanation": "Tertulis そうじは 9時から 11時までです (bersih-bersih dari pukul 9 sampai pukul 11), jadi 2 jam."
+  },
+  {
+    "id": "rea-0045",
+    "instruction": "Baca pesan berikut. Dari apartemen baru ke kantor butuh waktu berapa lama?",
+    "explanation": "Tertulis 新しい アパートからは 歩いて 10分です (dari apartemen baru 10 menit berjalan kaki). Yang butuh 1 jam adalah apartemen yang sekarang."
+  },
+  {
+    "id": "rea-0046",
+    "instruction": "Baca pesan berikut. Apa yang diminta Yuki kepada Mira?",
+    "explanation": "Kalimat terakhir: ひっこしの 日、てつだって もらえませんか (pada hari pindahan, bisakah Anda membantu saya?). 〜て もらえませんか adalah cara sopan untuk meminta tolong."
+  },
+  {
+    "id": "rea-0047",
+    "instruction": "Baca petunjuk menghadapi topan berikut. Air dan makanan disiapkan untuk berapa hari?",
+    "explanation": "Tertulis 水と 食べ物を 3日分 用意しましょう (siapkan air dan makanan untuk 3 hari). 〜日分 berarti “untuk … hari”."
+  },
+  {
+    "id": "rea-0048",
+    "instruction": "Baca petunjuk menghadapi topan berikut. Apa yang tidak boleh dilakukan saat topan?",
+    "explanation": "Pada bagian ※ tertulis 川や 海の 近くに 行かないで ください (jangan pergi ke dekat sungai atau laut). Mengisi daya ponsel justru dianjurkan sebelum topan datang."
+  },
+  {
+    "id": "rea-0049",
+    "instruction": "Lihat jadwal wisata bus berikut. Apa yang dilakukan setelah makan siang?",
+    "explanation": "Makan siang pukul 12:00, dan kegiatan berikutnya pukul 14:00 adalah おみやげを 買います (membeli oleh-oleh). Melihat bunga dilakukan pukul 10:00, sebelum makan siang."
+  },
+  {
+    "id": "rea-0050",
+    "instruction": "Lihat jadwal wisata bus berikut. Dari berangkat sampai tiba kembali di kantor, berapa jam?",
+    "explanation": "Berangkat pukul 8:00 (会社を 出ます) dan tiba pukul 17:00 (会社に 着きます). 17 − 8 = 9 jam."
+  }
+]

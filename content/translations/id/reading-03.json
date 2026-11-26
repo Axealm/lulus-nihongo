@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rea-0021",
+    "instruction": "Lihat jam pendaftaran rumah sakit berikut. Sesi siang mulai pukul berapa?",
+    "explanation": "Tertulis 午後：2:00～6:00. 午後 berarti siang/sore (setelah pukul 12), jadi mulai pukul 2. 午前 (pagi) mulai pukul 9 dan selesai pukul 12."
+  },
+  {
+    "id": "rea-0022",
+    "instruction": "Baca pesan berikut. Kapan hadiahnya tiba?",
+    "explanation": "Tertulis プレゼントを おくりました。あした つきます (saya sudah mengirim hadiah, besok tiba). つきます berarti “tiba / sampai”."
+  },
+  {
+    "id": "rea-0023",
+    "instruction": "Baca pengumuman kelas bahasa Jepang berikut. Anda datang 2 kali dalam sebulan. Berapa yang Anda bayar?",
+    "explanation": "Tertulis お金：1回 200円 (biaya: 200 yen sekali datang). Dua kali datang berarti 200 × 2 = 400円."
+  },
+  {
+    "id": "rea-0024",
+    "instruction": "Baca pengumuman kelas bahasa Jepang berikut. Di mana pendaftarannya?",
+    "explanation": "Tertulis もうしこみ：こうみんかんの うけつけで (pendaftaran: di loket balai warga). もうしこみ berarti “pendaftaran” dan うけつけ berarti “loket / resepsionis”."
+  },
+  {
+    "id": "rea-0025",
+    "instruction": "Baca pengumuman pabrik berikut. Hari Senin minggu depan, paling lambat pukul berapa harus berganti pakaian?",
+    "explanation": "Tertulis 8時10分までに 着がえて、1かいに 集まって ください (ganti pakaian paling lambat pukul 8.10, lalu berkumpul di lantai 1). 〜までに berarti “paling lambat”. Pukul 8.15 adalah waktu mulai senam yang baru, dan 8.30 adalah waktu yang lama."
+  },
+  {
+    "id": "rea-0026",
+    "instruction": "Lihat jam buka pusat kebugaran berikut. Hari Minggu tutup pukul berapa?",
+    "explanation": "Hari Minggu termasuk 土・日 (Sabtu dan Minggu), yaitu 9:00～18:00. Pukul 18:00 sama dengan pukul 6 sore (午後 6時). Pukul 22:00 adalah jam tutup Senin sampai Jumat."
+  },
+  {
+    "id": "rea-0027",
+    "instruction": "Lihat jam buka pusat kebugaran berikut. Kapan hari liburnya?",
+    "explanation": "Tertulis 休み：毎月 15日 (libur: tanggal 15 setiap bulan). 毎月 berarti “setiap bulan”, sedangkan 毎週 berarti “setiap minggu”."
+  },
+  {
+    "id": "rea-0028",
+    "instruction": "Baca pesan dari manajer toko berikut. Biasanya Sari mulai bekerja pukul berapa?",
+    "explanation": "Besok kerja mulai pukul 7, dan tertulis いつもより 1時間 早いです (satu jam lebih awal daripada biasanya). Jadi biasanya ia mulai pukul 8."
+  },
+  {
+    "id": "rea-0029",
+    "instruction": "Baca pesan dari manajer toko berikut. Besok, apa yang harus dilakukan Sari paling lambat pukul 6.45?",
+    "explanation": "Tertulis 6時45分までに ロッカーで 着がえて ください (ganti pakaian di ruang loker paling lambat pukul 6.45). 着がえます berarti “berganti pakaian”."
+  },
+  {
+    "id": "rea-0030",
+    "instruction": "Baca cara membuat mi instan dalam cup berikut. Setelah menuangkan air panas, tunggu berapa menit?",
+    "explanation": "Pada langkah 3 tertulis ふたを して、3分 待ちます (tutup, lalu tunggu 3 menit). おゆ berarti “air panas” dan ふた berarti “tutup”."
+  }
+]

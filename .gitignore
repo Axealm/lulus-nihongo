@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dev-dist/
+.wrangler/
+.env
+.env.local
+*.log
+content-review.md
+marketing/

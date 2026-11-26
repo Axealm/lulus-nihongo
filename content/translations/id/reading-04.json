@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rea-0031",
+    "instruction": "Lihat informasi penatu koin berikut. Berapa biaya mencuci satu kali?",
+    "explanation": "Tertulis せんたく：1回 300円(30分), artinya mencuci satu kali 300 yen selama 30 menit. Angka 30 adalah lamanya (menit), bukan harganya."
+  },
+  {
+    "id": "rea-0032",
+    "instruction": "Lihat informasi penatu koin berikut. Anda mengeringkan pakaian selama 20 menit. Berapa biayanya?",
+    "explanation": "Tertulis かんそう：10分 100円 (pengeringan: 100 yen per 10 menit). Untuk 20 menit, 100 × 2 = 200円."
+  },
+  {
+    "id": "rea-0033",
+    "instruction": "Baca pesan berikut. Besok Chan melakukan apa?",
+    "explanation": "Tertulis かりた かさは、あした 会社で かえします (payung yang saya pinjam akan saya kembalikan besok di kantor). かります = meminjam, かえします = mengembalikan."
+  },
+  {
+    "id": "rea-0034",
+    "instruction": "Baca tulisan berikut. Mengapa orang ini kesulitan pada awalnya?",
+    "explanation": "Tertulis はじめは 日本語が わからなくて、こまりました (awalnya saya kesulitan karena tidak mengerti bahasa Jepang). Orang-orang di kantornya justru mengajari dengan ramah (やさしく 教えて くれた)."
+  },
+  {
+    "id": "rea-0035",
+    "instruction": "Baca tulisan berikut. Apa yang ingin dilakukan orang ini tahun depan?",
+    "explanation": "Kalimat terakhir: 来年は 日本語の 試験を 受けたいです (tahun depan saya ingin mengikuti ujian bahasa Jepang). 試験を 受けます berarti “mengikuti ujian”."
+  },
+  {
+    "id": "rea-0036",
+    "instruction": "Baca petunjuk untuk pasien baru berikut. Apa yang dilakukan pertama kali?",
+    "explanation": "Langkah 1: うけつけで ほけんしょうを 出して ください (serahkan kartu asuransi kesehatan di loket). ほけんしょう berarti “kartu asuransi kesehatan”. Mengisi もんしんひょう (lembar pertanyaan kesehatan) adalah langkah 2."
+  },
+  {
+    "id": "rea-0037",
+    "instruction": "Baca petunjuk untuk pasien baru berikut. Apa yang harus dilakukan orang yang tidak membawa kartu asuransi?",
+    "explanation": "Pada bagian ※ tertulis ほけんしょうが ない 方は、うけつけの 人に 言って ください (yang tidak punya kartu asuransi, silakan sampaikan kepada petugas loket)."
+  },
+  {
+    "id": "rea-0038",
+    "instruction": "Baca informasi obral berikut. Sepatu seharga 4.000 yen menjadi berapa?",
+    "explanation": "Tertulis くつ：半がく. 半がく berarti “setengah harga”, jadi 4.000 ÷ 2 = 2.000円. Harga 1.000円 berlaku untuk kemeja."
+  },
+  {
+    "id": "rea-0039",
+    "instruction": "Baca informasi obral berikut. Obral berlangsung sampai kapan?",
+    "explanation": "Tertulis 7月20日(金)～22日(日), artinya dari 20 Juli sampai 22 Juli. Pada hari terakhir, obral hanya sampai pukul 5 sore."
+  },
+  {
+    "id": "rea-0040",
+    "instruction": "Baca pesan berikut. Di mana kunci kamarnya?",
+    "explanation": "Tertulis へやの かぎを うけつけに あずけました (kunci kamar sudah saya titipkan di resepsionis). あずけます berarti “menitipkan”."
+  }
+]

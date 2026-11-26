@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0001", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "きのう、スーパーで やさいを (　　)。",
+    "choices": ["のみました", "かいました", "よみました"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0002", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「べんり」",
+    "choices": ["きょうは べんりな てんきです。", "わたしは べんりを たべました。", "この アプリは とても べんりです。"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0003", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "まいにち、__会社__に いきます。",
+    "choices": ["かいしゃ", "がいしゃ", "かいじゃ"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0004", "section": "vocabulary", "category": "kanji-meaning", "level": "A1",
+    "prompt": "えきの (　　)に コンビニが あります。",
+    "choices": ["午", "半", "前"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0005", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "にもつが おもいので、(　　) ください。",
+    "choices": ["あそんで", "てつだって", "やすんで"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0006", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "まいあさ かおを (　　)。",
+    "choices": ["あらいます", "はらいます", "わらいます"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0007", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「あつい」",
+    "choices": ["この ほんは あついを よみます。", "きょうは とても あついです。", "あついに いきましょう。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0008", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "__電車__で がっこうへ いきます。",
+    "choices": ["てんしゃ", "でんちゃ", "でんしゃ"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0009", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "この くすりは 1日に 3かい (　　)みます。",
+    "choices": ["飲", "読", "休"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0010", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "へやが くらいので、でんきを (　　)。",
+    "choices": ["けしました", "つけました", "しめました"], "answerIndex": 1
+  }
+]

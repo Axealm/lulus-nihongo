@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0041",
+    "instruction": "A bertanya tentang belajar bahasa Jepang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜が di akhir bagian pertama berarti “tetapi”: むずかしいですが、おもしろいです = “sulit, tetapi menarik”. から dan ので berarti “karena”."
+  },
+  {
+    "id": "con-0042",
+    "instruction": "A bertanya apakah B punya saudara. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Untuk orang dan hewan dipakai います: 兄が 2人 います = “saya punya dua kakak laki-laki”. あります dipakai untuk benda."
+  },
+  {
+    "id": "con-0043",
+    "instruction": "A bertanya apakah B sudah membaca sebuah buku. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て みて ください berarti “cobalah …”: 読んで みて ください = “cobalah baca”. いて ください dan あって ください tidak dipakai setelah 読んで dengan arti ini."
+  },
+  {
+    "id": "con-0044",
+    "instruction": "A bertanya jam kedatangan besok. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B memberi petunjuk: 9時までに 来て ください = “datanglah paling lambat pukul 9”. 〜までに berarti “paling lambat”. 来ないで ください berarti “jangan datang”."
+  },
+  {
+    "id": "con-0045",
+    "instruction": "A bertanya tentang kemampuan B saat baru datang ke Jepang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pertanyaannya memakai bentuk lampau, dan ぜんぜん dipakai dengan bentuk negatif: ぜんぜん 話せませんでした = “sama sekali tidak bisa berbicara”. 話しません adalah bentuk sekarang dan bukan bentuk “bisa”."
+  },
+  {
+    "id": "con-0046",
+    "instruction": "Dua orang melihat langit yang gelap. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Bentuk ます tanpa ます + そう berarti “kelihatannya akan …”: 雨が ふりそうです = “kelihatannya akan hujan”. よう dan らしい tidak langsung menempel pada ふり."
+  },
+  {
+    "id": "con-0047",
+    "instruction": "A menanyakan kabar B. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Jawaban sopan untuk お元気ですか adalah はい、おかげさまで (ya, baik, terima kasih). おだいじに diucapkan kepada orang sakit, おつかれさま kepada orang yang selesai bekerja."
+  },
+  {
+    "id": "con-0048",
+    "instruction": "Di toko, A menanyakan harga. Baca percakapan, lalu pilih jawaban yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "いくらですか menanyakan harga, jadi dijawab dengan harga: 500円です. あそこです adalah jawaban untuk “di mana”, 3時です untuk “jam berapa”."
+  },
+  {
+    "id": "con-0049",
+    "instruction": "A memberi tahu bahwa ia akan terlambat rapat. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menerima kabar itu dan berpesan 気を つけて 来て ください (hati-hati di jalan). おめでとう ございます berarti “selamat”, いただきます diucapkan sebelum makan."
+  },
+  {
+    "id": "con-0050",
+    "instruction": "Di rumah sakit, dokter bertanya kepada pasien. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜んです dipakai untuk menjelaskan keadaan: せきが 止まらないんです = “batuk saya tidak berhenti”. 止まりましょう berarti “mari berhenti”, 止まって ください adalah permintaan."
+  }
+]

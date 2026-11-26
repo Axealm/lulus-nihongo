@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0001",
+    "instruction": "Dua orang mengobrol tentang akhir pekan. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menjawab, “Menonton film (　　) teman.” Partikel と berarti “bersama”: ともだちと = bersama teman. を menandai objek, dan に menandai tujuan atau waktu."
+  },
+  {
+    "id": "con-0002",
+    "instruction": "A tidak tahu cara membaca sebuah kanji. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pola 〜たら どうですか dipakai untuk memberi saran: “Bagaimana kalau …?”. きいたら どうですか = “Bagaimana kalau bertanya (kepada guru)?”. Bentuk yang dipakai adalah bentuk た + ら."
+  },
+  {
+    "id": "con-0003",
+    "instruction": "A menanyakan letak toilet. Baca percakapan, lalu pilih jawaban yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pertanyaan dengan どこ (di mana) dijawab dengan tempat, jadi あそこです (di sana). はい、そうです dipakai untuk pertanyaan ya-tidak, dan どういたしまして berarti “sama-sama”."
+  },
+  {
+    "id": "con-0004",
+    "instruction": "Seorang pembeli berbicara dengan pegawai toko pakaian. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pembeli ingin mencoba kemeja, jadi memakai pola 〜てみても いいですか (bolehkah saya mencoba …?). きては いけません = tidak boleh memakai, きた ことが あります = pernah memakai."
+  },
+  {
+    "id": "con-0005",
+    "instruction": "A mengajak B makan siang besok. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menolak karena ada keperluan. Pola 〜なければ なりません berarti “harus …”: びょういんに いかなければ なりません = “Saya harus pergi ke rumah sakit.” Pilihan lain berarti “pernah pergi” dan “tidak perlu pergi”, sehingga tidak cocok sebagai alasan."
+  },
+  {
+    "id": "con-0006",
+    "instruction": "Dua orang melihat sebuah payung. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "だれの かさ berarti “payung siapa”. Partikel の menunjukkan kepemilikan. B menjawab たなかさんのです (milik Tanaka)."
+  },
+  {
+    "id": "con-0007",
+    "instruction": "A bertanya apakah B pergi ke suatu tempat kemarin. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pola どこも + bentuk negatif berarti “tidak ke mana-mana”: どこも いきませんでした = “tidak pergi ke mana pun”. が dan を tidak dipakai dalam pola ini."
+  },
+  {
+    "id": "con-0008",
+    "instruction": "B datang ke rumah A dan dipersilakan masuk. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Saat masuk ke rumah orang lain, kita mengucapkan おじゃまします (permisi, maaf mengganggu). いってきます diucapkan saat berangkat dari rumah, ごちそうさまでした diucapkan setelah makan."
+  },
+  {
+    "id": "con-0009",
+    "instruction": "A tidak menangkap penjelasan B. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て くださいませんか adalah cara sopan untuk meminta tolong: “Bisakah Anda mengatakannya sekali lagi pelan-pelan?”. いっても いいですか berarti “bolehkah saya mengatakan”, いいましょうか berarti “perlu saya katakan?”."
+  },
+  {
+    "id": "con-0010",
+    "instruction": "B ditanya tentang kehidupannya di Jepang. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て きました menunjukkan perubahan yang terjadi sedikit demi sedikit sampai sekarang: だんだん なれて きました = “lama-lama saya mulai terbiasa”. 〜て おきます berarti melakukan sesuatu sebagai persiapan, 〜て みます berarti mencoba."
+  }
+]

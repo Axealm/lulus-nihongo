@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lis-0031",
+    "instruction": "Dengarkan percakapan. Perempuan itu lebih suka yang mana?",
+    "explanation": "Ia berkata こうちゃの ほうが すきです (saya lebih suka teh). 〜の ほうが すきです berarti “lebih suka …”.",
+    "transcriptTranslation": "Laki-laki: Kopi dan teh, lebih suka yang mana?\nPerempuan: Saya lebih suka teh. Saya minum setiap pagi."
+  },
+  {
+    "id": "lis-0032",
+    "instruction": "Dengarkan percakapan. Besok hari apa?",
+    "explanation": "Hari ini もくようび (Kamis), lalu laki-laki berkata あしたは きんようびですね (besok hari Jumat, ya). Yang ditanyakan adalah besok, bukan hari ini.",
+    "transcriptTranslation": "Perempuan: Hari ini hari apa?\nLaki-laki: Hari Kamis. Besok hari Jumat, ya."
+  },
+  {
+    "id": "lis-0033",
+    "instruction": "Dengarkan percakapan. Apa yang membuat perempuan itu senang?",
+    "explanation": "Awalnya ia kesulitan karena dingin. Setelah でも (tetapi), ia berkata ゆきを はじめて みて、うれしかったです (saya senang karena pertama kali melihat salju).",
+    "transcriptTranslation": "Laki-laki: Bagaimana musim dingin di Jepang?\nPerempuan: Negara saya selalu panas, jadi awalnya dingin dan berat. Tapi saya senang karena pertama kali melihat salju."
+  },
+  {
+    "id": "lis-0034",
+    "instruction": "Dengarkan percakapan. Besok laki-laki itu pergi naik apa?",
+    "explanation": "Perempuan menawarkan untuk menjemput dengan mobil, tetapi laki-laki menolak dengan sopan: バスで いきますから、だいじょうぶです (saya naik bus, jadi tidak apa-apa).",
+    "transcriptTranslation": "Perempuan: Besok mau saya jemput ke stasiun dengan mobil?\nLaki-laki: Terima kasih. Tapi saya naik bus, jadi tidak apa-apa.\nPerempuan: Begitu, ya. Kalau begitu, saya tunggu di kantor."
+  },
+  {
+    "id": "lis-0035",
+    "instruction": "Dengarkan percakapan. Berapa tarif untuk anak?",
+    "explanation": "Petugas berkata おとなが にひゃくえん、こどもが ひゃくえんです (dewasa 200 yen, anak 100 yen). こども berarti “anak”.",
+    "transcriptTranslation": "Laki-laki: Permisi, bus ini tarifnya berapa?\nPerempuan: Dewasa 200 yen, anak 100 yen."
+  },
+  {
+    "id": "lis-0036",
+    "instruction": "Dengarkan percakapan di minimarket. Apa yang dipilih laki-laki itu?",
+    "explanation": "Saat ditanya apakah bekalnya dihangatkan, ia menjawab はい、おねがいします (ya, tolong). Saat ditawari kantong (ふくろ), ia menjawab いいえ、いりません (tidak perlu). Jadi bekalnya dihangatkan, tetapi tanpa kantong.",
+    "transcriptTranslation": "Perempuan: Bekalnya mau dihangatkan?\nLaki-laki: Ya, tolong.\nPerempuan: Mau pakai kantong?\nLaki-laki: Tidak perlu."
+  },
+  {
+    "id": "lis-0037",
+    "instruction": "Dengarkan percakapan di telepon. Janji temu laki-laki itu pukul berapa?",
+    "explanation": "Pagi sudah penuh (いっぱい). Pukul 3 sore ia bekerja, lalu ia menanyakan pukul 5 dan dijawab ごじなら だいじょうぶです (kalau pukul 5 bisa). 〜なら berarti “kalau …”.",
+    "transcriptTranslation": "Laki-laki: Halo, saya ingin membuat janji untuk besok.\nPerempuan: Baik. Jadwal pagi sudah penuh. Bagaimana kalau pukul 3 sore?\nLaki-laki: Pukul 3 saya bekerja. Bagaimana kalau pukul 5?\nPerempuan: Ya, kalau pukul 5 bisa."
+  },
+  {
+    "id": "lis-0038",
+    "instruction": "Dengarkan instruksi sebelum ujian. Apa yang diletakkan di atas meja?",
+    "explanation": "Buku dan buku catatan dimasukkan ke tas. Lalu えんぴつだけ つくえの うえに だして ください (letakkan hanya pensil di atas meja). 〜だけ berarti “hanya”.",
+    "transcriptTranslation": "Laki-laki: Semuanya, kita mulai ujiannya. Masukkan buku dan buku catatan ke dalam tas. Letakkan hanya pensil di atas meja."
+  },
+  {
+    "id": "lis-0039",
+    "instruction": "Dengarkan instruksi di tempat kerja. Apa yang tidak boleh dilakukan saat bekerja?",
+    "explanation": "Topi dan masker harus dipakai. Lalu ゆびわと とけいを はずして ください (lepaskan cincin dan jam tangan). Jadi memakai jam tangan tidak boleh.",
+    "transcriptTranslation": "Perempuan: Sebelum bekerja, pastikan mencuci tangan. Setelah itu, pakai topi dan masker. Lepaskan cincin dan jam tangan."
+  },
+  {
+    "id": "lis-0040",
+    "instruction": "Dengarkan pengumuman di supermarket. Ikan menjadi lebih murah berapa persen?",
+    "explanation": "Daging diskon 30 persen, sedangkan ikan はんがく. はんがく berarti “setengah harga”, yaitu 50 persen.",
+    "transcriptTranslation": "Laki-laki: Pemberitahuan kepada para pelanggan. Hari ini daging dan ikan lebih murah. Daging diskon 30 persen, ikan setengah harga. Berlaku sampai pukul 6 sore."
+  }
+]

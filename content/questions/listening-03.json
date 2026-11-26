@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lis-0021", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おんなの ひとは どこで かばんを かいましたか。",
+    "audio": "audio/lis-0021.mp3",
+    "transcript": "おとこ：その かばん、いいですね。どこで かいましたか。\nおんな：えきの まえの デパートで かいました。",
+    "choices": ["スーパー", "デパート", "えきの なか"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0022", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おとこの ひとの あたらしい アパートは どんな アパートですか。",
+    "audio": "audio/lis-0022.mp3",
+    "transcript": "おんな：あたらしい アパートは どうですか。\nおとこ：へやは ひろくて きれいですが、えきから とおいんです。あるいて さんじゅっぷん かかります。\nおんな：それは たいへんですね。",
+    "choices": ["せまいが、えきから ちかい", "ひろくて、えきから ちかい", "ひろいが、えきから とおい"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0023", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "おつりは いくらですか。",
+    "audio": "audio/lis-0023.mp3",
+    "transcript": "おんな：ぜんぶで きゅうひゃく はちじゅうえんです。\nおとこ：じゃあ、せんえんで おねがいします。\nおんな：はい、にじゅうえんの おかえしです。",
+    "choices": ["20えん", "80えん", "980えん"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0024", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "さんじに なにを しますか。",
+    "audio": "audio/lis-0024.mp3",
+    "transcript": "おんな：みなさん、ごごの よていです。にじから おふろです。そのあと、さんじに おやつを たべます。よじからは、みんなで うたを うたいます。",
+    "choices": ["おふろに はいります", "おやつを たべます", "うたを うたいます"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0025", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "あした、どう しますか。",
+    "audio": "audio/lis-0025.mp3",
+    "transcript": "おとこ：あしたは たいふうが きます。かぜが とても つよく なりますから、そとに でないで ください。まどを しめて、うちの なかに いて ください。",
+    "choices": ["そとで しごとを します", "まどを あけます", "うちの なかに います"], "answerIndex": 2
+  },
+  {
+    "id": "lis-0026", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おんなの ひとは なんじに おきますか。",
+    "audio": "audio/lis-0026.mp3",
+    "transcript": "おとこ：まいあさ なんじに おきますか。\nおんな：ろくじに おきます。しごとは はちじからです。",
+    "choices": ["6じ", "7じ", "8じ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0027", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "なんにんで みせに きましたか。",
+    "audio": "audio/lis-0027.mp3",
+    "transcript": "おんな：いらっしゃいませ。なんめいさまですか。\nおとこ：さんにんです。\nおんな：では、こちらの テーブルへ どうぞ。",
+    "choices": ["ふたり", "さんにん", "よにん"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0028", "section": "listening", "category": "announcement", "level": "A1",
+    "prompt": "でぐちは どちらですか。",
+    "audio": "audio/lis-0028.mp3",
+    "transcript": "おんな：つぎは、さくらえき、さくらえきです。おでぐちは みぎがわです。",
+    "choices": ["みぎ", "ひだり", "うしろ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-0029", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おとこの ひとは あたらしい しごとを どう おもって いますか。",
+    "audio": "audio/lis-0029.mp3",
+    "transcript": "おんな：あたらしい しごとは どうですか。\nおとこ：たいへんですが、おもしろいです。せんぱいが しんせつなので、たすかって います。",
+    "choices": ["たいへんで、つまらない", "たいへんだが、おもしろい", "かんたんで、おもしろい"], "answerIndex": 1
+  },
+  {
+    "id": "lis-0030", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとは どの バスに のりますか。",
+    "audio": "audio/lis-0030.mp3",
+    "transcript": "おとこ：すみません、この バスは しやくしょへ いきますか。\nおんな：いいえ、いきません。しやくしょへ いくのは ごばんの バスです。あちらの バスていから でます。\nおとこ：ごばんですね。ありがとうございます。",
+    "choices": ["3ばんの バス", "4ばんの バス", "5ばんの バス"], "answerIndex": 2
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lis-0001",
+    "instruction": "Dengarkan percakapan. Apa yang dilakukan laki-laki itu pada akhir pekan?",
+    "explanation": "Laki-laki itu berkata ともだちと サッカーを しました (saya bermain sepak bola bersama teman).",
+    "transcriptTranslation": "Perempuan: Tanaka, akhir pekan kemarin melakukan apa?\nLaki-laki: Saya bermain sepak bola bersama teman. Menyenangkan."
+  },
+  {
+    "id": "lis-0002",
+    "instruction": "Dengarkan percakapan di toko. Berapa yang dibayar laki-laki itu?",
+    "explanation": "Satu apel harganya 150 yen (ひゃくごじゅうえん) dan ia membeli tiga (みっつ). Penjual menyebut totalnya よんひゃくごじゅうえん = 450 yen.",
+    "transcriptTranslation": "Laki-laki: Permisi, apel ini berapa harganya?\nPerempuan: Satu buah 150 yen.\nLaki-laki: Kalau begitu, saya minta tiga.\nPerempuan: Baik, 450 yen."
+  },
+  {
+    "id": "lis-0003",
+    "instruction": "Dengarkan percakapan di stasiun. Di stasiun mana laki-laki itu turun?",
+    "explanation": "Petugas berkata みっつめの えきで おりて ください (silakan turun di stasiun ketiga). 〜め menunjukkan urutan: ふたつめ = kedua, みっつめ = ketiga, よっつめ = keempat. にばんせん (jalur 2) adalah nomor jalur, bukan urutan stasiun.",
+    "transcriptTranslation": "Laki-laki: Permisi, saya ingin pergi ke Stasiun Sakura.\nPerempuan: Stasiun Sakura, ya. Naik kereta di jalur 2, lalu turun di stasiun ketiga.\nLaki-laki: Stasiun ketiga, ya. Terima kasih."
+  },
+  {
+    "id": "lis-0004",
+    "instruction": "Dengarkan pengumuman. Besok harus membawa apa?",
+    "explanation": "Pengumumannya berkata ぼうしと てぶくろを わすれないで ください (jangan lupa topi dan sarung tangan). 〜ないで ください berarti “tolong jangan …”.",
+    "transcriptTranslation": "Perempuan: Semuanya, besok pagi harap berkumpul di depan pabrik pukul 8. Jangan lupa membawa topi dan sarung tangan."
+  },
+  {
+    "id": "lis-0005",
+    "instruction": "Dengarkan instruksi. Setelah pekerjaan selesai, apa yang dilakukan pertama kali?",
+    "explanation": "Kata まず berarti “pertama-tama”: まず きかいの スイッチを きって ください (pertama-tama, matikan sakelar mesin). それから berarti “setelah itu”, jadi mencuci tangan dan keluar ruangan dilakukan sesudahnya.",
+    "transcriptTranslation": "Laki-laki: Setelah pekerjaan selesai, pertama-tama matikan sakelar mesin. Setelah itu, cuci tangan lalu keluar dari ruangan."
+  },
+  {
+    "id": "lis-0006",
+    "instruction": "Dengarkan percakapan. Berapa orang saudara kandung perempuan itu?",
+    "explanation": "Ia berkata あにが ひとりと いもうとが ふたり います (punya satu kakak laki-laki dan dua adik perempuan). 1 + 2 = 3 orang (さんにん).",
+    "transcriptTranslation": "Laki-laki: Lin, apakah Anda punya saudara kandung?\nPerempuan: Ya, saya punya satu kakak laki-laki dan dua adik perempuan."
+  },
+  {
+    "id": "lis-0007",
+    "instruction": "Dengarkan percakapan. Perempuan itu makan apa?",
+    "explanation": "Yang membawa bekal (べんとう) adalah laki-laki. Perempuan berkata わたしは しょくどうで うどんを たべます (saya makan udon di kantin).",
+    "transcriptTranslation": "Perempuan: Tanaka, makan siang nanti makan apa?\nLaki-laki: Hari ini saya membawa bekal. Kalau Sato?\nPerempuan: Saya makan udon di kantin."
+  },
+  {
+    "id": "lis-0008",
+    "instruction": "Dengarkan percakapan di kafe. Berapa roti lapis yang dibeli laki-laki itu?",
+    "explanation": "Ia memesan コーヒーを ふたつと、サンドイッチを ひとつ (dua kopi dan satu roti lapis). ひとつ = satu, ふたつ = dua.",
+    "transcriptTranslation": "Perempuan: Selamat datang.\nLaki-laki: Saya minta dua kopi dan satu roti lapis.\nPerempuan: Baik, dua kopi dan satu roti lapis, ya."
+  },
+  {
+    "id": "lis-0009",
+    "instruction": "Dengarkan percakapan di toko pakaian. Kemeja seperti apa yang dibeli laki-laki itu?",
+    "explanation": "Ia mencari ukuran yang lebih besar. Pegawai berkata おおきい サイズは しろしか ありません (ukuran besar hanya ada yang putih). 〜しか ありません berarti “hanya ada …”. Lalu ia berkata しろを ください (saya ambil yang putih).",
+    "transcriptTranslation": "Laki-laki: Permisi, apakah kemeja ini ada yang sedikit lebih besar?\nPerempuan: Mohon maaf. Ukuran besar hanya ada yang putih.\nLaki-laki: Begitu, ya. Kalau begitu, saya ambil yang putih."
+  },
+  {
+    "id": "lis-0010",
+    "instruction": "Dengarkan pengumuman di tempat kerja. Rapat besok diadakan di mana?",
+    "explanation": "Pembicara berkata ばしょは にかいの かいぎしつです (tempatnya di ruang rapat lantai 2). ばしょ berarti “tempat” dan にかい berarti “lantai 2”.",
+    "transcriptTranslation": "Laki-laki: Semuanya, terima kasih atas kerja kerasnya. Besok ada rapat mulai pukul 9 pagi. Tempatnya di ruang rapat lantai 2. Tolong bawa buku catatan dan pena."
+  }
+]

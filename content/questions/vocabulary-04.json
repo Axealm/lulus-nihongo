@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0031", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "としょかんで ほんを (　　)。",
+    "choices": ["かります", "かいます", "うります"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0032", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "あめが ふって いますから、(　　)を もって いきます。",
+    "choices": ["かぎ", "かさ", "くつ"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0033", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "この スープは (　　)が たりません。しおを いれましょう。",
+    "choices": ["におい", "いろ", "あじ"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0034", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "おばあさんが たつ とき、てを (　　) あげました。",
+    "choices": ["かして", "かりて", "かえして"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0035", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「にぎやか」",
+    "choices": ["この スープは にぎやかです。", "えきの まえは みせが おおくて、にぎやかです。", "にぎやかを のみます。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0036", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「つかれる」",
+    "choices": ["この くつは つかれて います。", "でんきが つかれました。", "たくさん あるいたので、つかれました。"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0037", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「わたす」",
+    "choices": ["この しょるいを うけつけの ひとに わたして ください。", "はしを あるいて わたして ください。", "ゆきが わたして います。"], "answerIndex": 0
+  },
+  {
+    "id": "voc-0038", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "__先生__に しつもんを します。",
+    "choices": ["せんせ", "せんせい", "せいせい"], "answerIndex": 1
+  },
+  {
+    "id": "voc-0039", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "__来週__の げつようびに あいましょう。",
+    "choices": ["こんしゅう", "せんしゅう", "らいしゅう"], "answerIndex": 2
+  },
+  {
+    "id": "voc-0040", "section": "vocabulary", "category": "kanji-meaning", "level": "A1",
+    "prompt": "この かばんは 5,000(　　)です。",
+    "choices": ["円", "人", "本"], "answerIndex": 0
+  }
+]

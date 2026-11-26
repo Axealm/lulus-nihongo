@@ -1,0 +1,291 @@
+[
+  {
+    "id": "voc-1001", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "さむいですから、まどを (　　) ください。",
+    "choices": ["しめて", "あけて", "つけて"], "answerIndex": 0
+  },
+  {
+    "id": "voc-1002", "section": "vocabulary", "category": "word-meaning", "level": "A1",
+    "prompt": "わたしの (　　)は 4にんです。ちちと ははと あねが います。",
+    "choices": ["しごと", "かぞく", "へや"], "answerIndex": 1
+  },
+  {
+    "id": "voc-1003", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "(　　)が いたいので、はいしゃに いきます。",
+    "choices": ["あし", "おなか", "は"], "answerIndex": 2
+  },
+  {
+    "id": "voc-1004", "section": "vocabulary", "category": "word-meaning", "level": "A2",
+    "prompt": "つかった どうぐは、もとの ばしょに (　　)。",
+    "choices": ["おとします", "もどします", "こわします"], "answerIndex": 1
+  },
+  {
+    "id": "voc-1005", "section": "vocabulary", "category": "word-usage", "level": "A1",
+    "prompt": "「げんき」",
+    "choices": ["この りょうりは げんきです。", "げんきを のみました。", "そぼは 80さいですが、とても げんきです。"], "answerIndex": 2
+  },
+  {
+    "id": "voc-1006", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「まにあう」",
+    "choices": ["はしったので、バスに まにあいました。", "この ふくは わたしに まにあいます。", "ともだちと えきで まにあいました。"], "answerIndex": 0
+  },
+  {
+    "id": "voc-1007", "section": "vocabulary", "category": "word-usage", "level": "A2",
+    "prompt": "「こわれる」",
+    "choices": ["ゆきが こわれて います。", "せんたくきが こわれて、つかえません。", "かれは しごとを こわれました。"], "answerIndex": 1
+  },
+  {
+    "id": "voc-1008", "section": "vocabulary", "category": "kanji-reading", "level": "A1",
+    "prompt": "つめたい __水__を ください。",
+    "choices": ["みす", "みずう", "みず"], "answerIndex": 2
+  },
+  {
+    "id": "voc-1009", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "__受付__で なまえを いって ください。",
+    "choices": ["うけつけ", "うけづけ", "うげつけ"], "answerIndex": 0
+  },
+  {
+    "id": "voc-1010", "section": "vocabulary", "category": "kanji-reading", "level": "A2",
+    "prompt": "ごみは __毎週__ かようびに だします。",
+    "choices": ["まいしゅ", "まいしゅう", "まいじゅう"], "answerIndex": 1
+  },
+  {
+    "id": "voc-1011", "section": "vocabulary", "category": "kanji-meaning", "level": "A1",
+    "prompt": "いま 3(　　) 30ぷんです。",
+    "choices": ["分", "日", "時"], "answerIndex": 2
+  },
+  {
+    "id": "voc-1012", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "うちから えきまで (　　)いて 10ぷんです。",
+    "choices": ["歩", "走", "働"], "answerIndex": 0
+  },
+  {
+    "id": "voc-1013", "section": "vocabulary", "category": "kanji-meaning", "level": "A2",
+    "prompt": "この へやは (　　)いですから、でんきを つけましょう。",
+    "choices": ["広", "暗", "明"], "answerIndex": 1
+  },
+
+  {
+    "id": "con-1001", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：日曜日は 何を しましたか。\nB：うちで テレビを (　　)。",
+    "choices": ["見ました", "見ます", "見ましょう"], "answerIndex": 0
+  },
+  {
+    "id": "con-1002", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：会社まで 何 (　　) 来ますか。\nB：バスで 来ます。",
+    "choices": ["に", "で", "を"], "answerIndex": 1
+  },
+  {
+    "id": "con-1003", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：コーヒーと お茶と、(　　)が いいですか。\nB：お茶を おねがいします。",
+    "choices": ["どなた", "いくら", "どちら"], "answerIndex": 2
+  },
+  {
+    "id": "con-1004", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：もう 昼ごはんを 食べましたか。\nB：いいえ、(　　)。",
+    "choices": ["まだ 食べて いません", "もう 食べました", "まだ 食べました"], "answerIndex": 0
+  },
+  {
+    "id": "con-1005", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：この 薬は いつ 飲みますか。\nB：ごはんを (　　) あとで 飲んで ください。",
+    "choices": ["食べる", "食べた", "食べて"], "answerIndex": 1
+  },
+  {
+    "id": "con-1006", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：日本語が 上手ですね。\nB：いいえ、まだまだです。もっと 話せる (　　) なりたいです。",
+    "choices": ["ために", "ことに", "ように"], "answerIndex": 2
+  },
+  {
+    "id": "con-1007", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：あしたの 会議に (　　) いけませんよ。\nB：はい、気を つけます。",
+    "choices": ["おくれては", "おくれても", "おくれたら"], "answerIndex": 0
+  },
+  {
+    "id": "con-1008", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：はじめまして。リンです。どうぞ よろしく。\nB：(　　)。",
+    "choices": ["おかげさまで 元気です", "こちらこそ よろしく おねがいします", "いってらっしゃい"], "answerIndex": 1
+  },
+  {
+    "id": "con-1009", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：コーヒー、もう 一杯 いかがですか。\nB：いいえ、(　　)。",
+    "choices": ["いただきます", "おねがいします", "けっこうです"], "answerIndex": 2
+  },
+  {
+    "id": "con-1010", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(会社で)\nA：すみません、頭が いたいので、今日は 早く (　　)。\nB：わかりました。おだいじに。",
+    "choices": ["帰っても いいですか", "帰りましょうか", "帰って ください"], "answerIndex": 0
+  },
+  {
+    "id": "con-1011", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(駅で)\nA：すみません、さくら駅へ 行きたいんですが、(　　)。\nB：2番線の 電車ですよ。",
+    "choices": ["どの 電車に 乗りましたか", "どの 電車に 乗れば いいですか", "どの 電車が すきですか"], "answerIndex": 1
+  },
+  {
+    "id": "con-1012", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：あのう、この 書類の 書き方が わからないんですが…。\nB：(　　)。",
+    "choices": ["じゃあ、書かないで ください", "じゃあ、書いた ことが あります", "じゃあ、いっしょに 書きましょう"], "answerIndex": 2
+  },
+  {
+    "id": "con-1013", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：先週は 仕事を 休んで、すみませんでした。\nB：いいえ。体は もう (　　)。\nA：はい、おかげさまで 元気に なりました。",
+    "choices": ["大丈夫ですか", "大変ですか", "大好きですか"], "answerIndex": 0
+  },
+
+  {
+    "id": "lis-1001", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "あしたの てんきは どうですか。",
+    "audio": "audio/lis-1001.mp3",
+    "transcript": "おとこ：おはよう ございます。きょうは さむいですね。\nおんな：そうですね。でも、あしたは あたたかく なりますよ。",
+    "choices": ["さむい", "あたたかい", "あめ"], "answerIndex": 1
+  },
+  {
+    "id": "lis-1002", "section": "listening", "category": "social", "level": "A1",
+    "prompt": "おとこの ひとの しゅみは なんですか。",
+    "audio": "audio/lis-1002.mp3",
+    "transcript": "おんな：しゅみは なんですか。\nおとこ：りょうりです。やすみの ひは、よく かぞくに ばんごはんを つくります。",
+    "choices": ["りょうり", "りょこう", "スポーツ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-1003", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おとこの ひとは、りょこうの なにが よくなかったと いって いますか。",
+    "audio": "audio/lis-1003.mp3",
+    "transcript": "おんな：なつやすみは どうでしたか。\nおとこ：かぞくと ほっかいどうへ いきました。すずしくて、たべものも おいしかったです。でも、ホテルが ちょっと たかかったです。",
+    "choices": ["てんき", "たべもの", "ホテルの ねだん"], "answerIndex": 2
+  },
+  {
+    "id": "lis-1004", "section": "listening", "category": "social", "level": "A2",
+    "prompt": "おんなの ひとは このあと どう しますか。",
+    "audio": "audio/lis-1004.mp3",
+    "transcript": "おとこ：リーさん、こんばん みんなで しょくじに いきますが、いっしょに どうですか。\nおんな：いきたいんですが、きょうは しちじまで ざんぎょうが あるんです。\nおとこ：じゃあ、しちじはんに えきの まえの みせに きて ください。さきに いって まって います。\nおんな：ありがとうございます。じゃあ、あとで いきます。",
+    "choices": ["すぐ みせに いきます", "しごとの あとで みせに いきます", "きょうは いきません"], "answerIndex": 1
+  },
+  {
+    "id": "lis-1005", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "きっぷうりばは どこですか。",
+    "audio": "audio/lis-1005.mp3",
+    "transcript": "おとこ：すみません、きっぷうりばは どこですか。\nおんな：あの かいだんを おりて、みぎに あります。",
+    "choices": ["かいだんの うえ", "かいだんを おりて ひだり", "かいだんを おりて みぎ"], "answerIndex": 2
+  },
+  {
+    "id": "lis-1006", "section": "listening", "category": "public", "level": "A1",
+    "prompt": "おとこの ひとは なにを のみますか。",
+    "audio": "audio/lis-1006.mp3",
+    "transcript": "おんな：おのみものは いかがですか。\nおとこ：つめたい おちゃを ください。\nおんな：はい、つめたい おちゃですね。",
+    "choices": ["つめたい おちゃ", "あつい おちゃ", "つめたい コーヒー"], "answerIndex": 0
+  },
+  {
+    "id": "lis-1007", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "おとこの ひとは はじめに なにを しますか。",
+    "audio": "audio/lis-1007.mp3",
+    "transcript": "おとこ：すみません、じゅうしょが かわったんですが、どこで てつづきを しますか。\nおんな：にばんの まどぐちです。ざいりゅうカードは おもちですか。\nおとこ：はい、あります。\nおんな：では、さきに あちらの かみを かいてから、にばんの まどぐちに だして ください。",
+    "choices": ["にばんの まどぐちに いきます", "かみを かきます", "ざいりゅうカードを つくります"], "answerIndex": 1
+  },
+  {
+    "id": "lis-1008", "section": "listening", "category": "public", "level": "A2",
+    "prompt": "しろい くすりは いつ のみますか。",
+    "audio": "audio/lis-1008.mp3",
+    "transcript": "おんな：おくすりは みっかぶん でて います。この しろい くすりは、あさと よるの ごはんの あとで、ひとつずつ のんで ください。あかい くすりは、ねつが ある ときだけ のんで ください。\nおとこ：はい、わかりました。",
+    "choices": ["あさと よる", "ねつが ある とき", "ねる まえ"], "answerIndex": 0
+  },
+  {
+    "id": "lis-1009", "section": "listening", "category": "announcement", "level": "A1",
+    "prompt": "なんじに もどりますか。",
+    "audio": "audio/lis-1009.mp3",
+    "transcript": "おんな：みなさん、じゅうにじです。ひるやすみです。いちじに ここに もどって きて ください。",
+    "choices": ["12じ", "1じ", "2じ"], "answerIndex": 1
+  },
+  {
+    "id": "lis-1010", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "みせは いつ しまりますか。",
+    "audio": "audio/lis-1010.mp3",
+    "transcript": "おとこ：おきゃくさまに おしらせします。この みせは、あと じゅっぷんで しまります。かいものが まだの おきゃくさまは、レジへ おねがいします。",
+    "choices": ["10ぷんご", "20ぷんご", "30ぷんご"], "answerIndex": 0
+  },
+  {
+    "id": "lis-1011", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "きょう、つかっては いけない きかいは どれですか。",
+    "audio": "audio/lis-1011.mp3",
+    "transcript": "おとこ：あさの ミーティングを はじめます。きょうは、さんばんの きかいが こわれて いますから、つかわないで ください。いちばんと にばんの きかいを つかいます。しゅうりの ひとは、ごご さんじに きます。",
+    "choices": ["1ばんの きかい", "2ばんの きかい", "3ばんの きかい"], "answerIndex": 2
+  },
+  {
+    "id": "lis-1012", "section": "listening", "category": "announcement", "level": "A2",
+    "prompt": "あした、なにを もって いきますか。",
+    "audio": "audio/lis-1012.mp3",
+    "transcript": "おんな：あしたの バスりょこうの おしらせです。あさ しちじはんに、かいしゃの まえに あつまって ください。バスは はちじに でます。おひるごはんは こちらで よういしますから、のみものだけ もって きて ください。",
+    "choices": ["おひるごはん", "のみもの", "バスの きっぷ"], "answerIndex": 1
+  },
+
+  {
+    "id": "rea-1001", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "田中さんは どうして 会社を 休みますか。",
+    "passage": "キムさん\n今日は かぜで 会社を 休みます。あしたは 行きます。\n会議の しりょうは わたしの つくえの 上に あります。\nすみませんが、ぶちょうに わたして ください。\n田中",
+    "choices": ["かぜだから", "会議が あるから", "ぶちょうに 会うから"], "answerIndex": 0
+  },
+  {
+    "id": "rea-1002", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "キムさんは 何を しますか。",
+    "passage": "キムさん\n今日は かぜで 会社を 休みます。あしたは 行きます。\n会議の しりょうは わたしの つくえの 上に あります。\nすみませんが、ぶちょうに わたして ください。\n田中",
+    "choices": ["しりょうを 作ります", "田中さんの うちへ 行きます", "しりょうを ぶちょうに わたします"], "answerIndex": 2
+  },
+  {
+    "id": "rea-1003", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "大人 2人と 子ども 1人で 行きます。ぜんぶで いくらですか。",
+    "passage": "【さくら市 プール】\n時間：9:00～20:00\n休み：火曜日\nお金：大人 500円、子ども 200円",
+    "choices": ["700円", "1,200円", "1,500円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-1004", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "プールが 休みの 日は いつですか。",
+    "passage": "【さくら市 プール】\n時間：9:00～20:00\n休み：火曜日\nお金：大人 500円、子ども 200円",
+    "choices": ["火曜日", "木曜日", "日曜日"], "answerIndex": 0
+  },
+  {
+    "id": "rea-1005", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "どうして すぐ 山を おりましたか。",
+    "passage": "先週の 日曜日、会社の 人と 山に のぼりました。\n朝は 天気が よかったですが、昼から 雨が ふりました。\nそれで、山の 上で おべんとうを 食べないで、すぐ おりました。\nつかれましたが、楽しかったです。こんどは はれた 日に 行きたいです。",
+    "choices": ["つかれたから", "雨が ふったから", "おべんとうが なかったから"], "answerIndex": 1
+  },
+  {
+    "id": "rea-1006", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "この 人は 山のぼりを どう 思いましたか。",
+    "passage": "先週の 日曜日、会社の 人と 山に のぼりました。\n朝は 天気が よかったですが、昼から 雨が ふりました。\nそれで、山の 上で おべんとうを 食べないで、すぐ おりました。\nつかれましたが、楽しかったです。こんどは はれた 日に 行きたいです。",
+    "choices": ["つまらなかった", "もう 行きたくない", "楽しかった"], "answerIndex": 2
+  },
+  {
+    "id": "rea-1007", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "Bグループの 人は 何時に 行きますか。",
+    "passage": "【けんこうしんだんの お知らせ】\n日：11月12日(木)\n時間：Aグループ 9:00～ / Bグループ 10:30～ / Cグループ 13:00～\nばしょ：3がい 会議室\n※ 前の 日の 夜9時からは、何も 食べないで ください。水は 飲んでも いいです。",
+    "choices": ["9時", "10時半", "1時"], "answerIndex": 1
+  },
+  {
+    "id": "rea-1008", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "前の 日の 夜9時から、しても いい ことは 何ですか。",
+    "passage": "【けんこうしんだんの お知らせ】\n日：11月12日(木)\n時間：Aグループ 9:00～ / Bグループ 10:30～ / Cグループ 13:00～\nばしょ：3がい 会議室\n※ 前の 日の 夜9時からは、何も 食べないで ください。水は 飲んでも いいです。",
+    "choices": ["水を 飲む こと", "ごはんを 食べる こと", "おかしを 食べる こと"], "answerIndex": 0
+  },
+  {
+    "id": "rea-1009", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "リンさんは 5時半に どこへ 行きますか。",
+    "passage": "リンさん\n来週の 土曜日、うちで パーティーを します。6時からです。\nうちは 駅から 歩いて 15分ぐらい かかりますから、5時半に 駅に 来て ください。車で むかえに 行きます。\n食べ物は 用意しますから、何も 持って こなくても いいです。\n山田",
+    "choices": ["山田さんの うち", "駅", "スーパー"], "answerIndex": 1
+  },
+  {
+    "id": "rea-1010", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "リンさんは パーティーに 何を 持って いきますか。",
+    "passage": "リンさん\n来週の 土曜日、うちで パーティーを します。6時からです。\nうちは 駅から 歩いて 15分ぐらい かかりますから、5時半に 駅に 来て ください。車で むかえに 行きます。\n食べ物は 用意しますから、何も 持って こなくても いいです。\n山田",
+    "choices": ["食べ物", "飲み物", "何も 持って いかなくても いい"], "answerIndex": 2
+  },
+  {
+    "id": "rea-1011", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "日曜日に 5時間 はたらきます。いくら もらえますか。",
+    "passage": "【アルバイト ぼしゅう】\nレストラン さくら\n仕事：料理を はこぶ、さらを あらう\n時間：17:00～22:00(1週間に 3日 以上)\nじきゅう：1,100円(土・日は 1,200円)\n※ 日本語で かんたんな 会話が できる 人",
+    "choices": ["5,500円", "6,000円", "6,600円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-1012", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "この 仕事に もうしこむ ことが できるのは どんな 人ですか。",
+    "passage": "【アルバイト ぼしゅう】\nレストラン さくら\n仕事：料理を はこぶ、さらを あらう\n時間：17:00～22:00(1週間に 3日 以上)\nじきゅう：1,100円(土・日は 1,200円)\n※ 日本語で かんたんな 会話が できる 人",
+    "choices": ["日本語が ぜんぜん わからない 人", "1週間に 2日だけ はたらきたい 人", "日本語で かんたんな 会話が できる 人"], "answerIndex": 2
+  }
+]

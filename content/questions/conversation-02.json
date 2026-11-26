@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0011", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：毎朝 何時 (　　) 起きますか。\nB：6時です。",
+    "choices": ["で", "を", "に"], "answerIndex": 2
+  },
+  {
+    "id": "con-0012", "section": "conversation", "category": "grammar", "level": "A1",
+    "prompt": "A：この りんごは (　　) ですか。\nB：一つ 100円です。",
+    "choices": ["いくら", "いくつ", "どれ"], "answerIndex": 0
+  },
+  {
+    "id": "con-0013", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：この 漢字が 読めますか。\nB：いいえ、むずかし (　　)、読めません。",
+    "choices": ["ながら", "すぎて", "たり"], "answerIndex": 1
+  },
+  {
+    "id": "con-0014", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：ここで 写真を (　　) いいですか。\nB：すみません、ここは だめです。",
+    "choices": ["とらないで", "とりに", "とっても"], "answerIndex": 2
+  },
+  {
+    "id": "con-0015", "section": "conversation", "category": "grammar", "level": "A2",
+    "prompt": "A：あした 雨が (　　)、試合は どう なりますか。\nB：中止に なります。",
+    "choices": ["ふったら", "ふっても", "ふる 前に"], "answerIndex": 0
+  },
+  {
+    "id": "con-0016", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "A：お先に しつれいします。\nB：(　　)。",
+    "choices": ["おかえりなさい", "おつかれさまでした", "いただきます"], "answerIndex": 1
+  },
+  {
+    "id": "con-0017", "section": "conversation", "category": "expression", "level": "A1",
+    "prompt": "(レストランで)\nA：ご注文は？\nB：カレーを (　　)。",
+    "choices": ["ありがとうございます", "ごめんください", "おねがいします"], "answerIndex": 2
+  },
+  {
+    "id": "con-0018", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：頭が いたいんです。\nB：それは いけませんね。(　　)。",
+    "choices": ["おだいじに", "お元気で", "おめでとうございます"], "answerIndex": 0
+  },
+  {
+    "id": "con-0019", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "(会社で)\nA：山田さん、この 仕事の やり方を (　　)。\nB：いいですよ。",
+    "choices": ["教えましょうか", "教えて いただけませんか", "教えなくても いいですか"], "answerIndex": 1
+  },
+  {
+    "id": "con-0020", "section": "conversation", "category": "expression", "level": "A2",
+    "prompt": "A：今度の 日曜日、いっしょに 買い物に 行きませんか。\nB：すみません、日曜日は (　　)。",
+    "choices": ["つごうが いいんです", "元気が いいんです", "つごうが わるいんです"], "answerIndex": 2
+  }
+]

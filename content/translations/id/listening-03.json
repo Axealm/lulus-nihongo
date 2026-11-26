@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lis-0021",
+    "instruction": "Dengarkan percakapan. Di mana perempuan itu membeli tasnya?",
+    "explanation": "Ia berkata えきの まえの デパートで かいました (saya beli di toserba di depan stasiun). えきの まえ berarti “di depan stasiun”, bukan di dalam stasiun.",
+    "transcriptTranslation": "Laki-laki: Tas itu bagus, ya. Beli di mana?\nPerempuan: Saya beli di toserba di depan stasiun."
+  },
+  {
+    "id": "lis-0022",
+    "instruction": "Dengarkan percakapan. Seperti apa apartemen baru laki-laki itu?",
+    "explanation": "Ia berkata へやは ひろくて きれいですが、えきから とおいんです (kamarnya luas dan bersih, tetapi jauh dari stasiun). ひろい = luas, せまい = sempit, とおい = jauh, ちかい = dekat.",
+    "transcriptTranslation": "Perempuan: Bagaimana apartemen barunya?\nLaki-laki: Kamarnya luas dan bersih, tetapi jauh dari stasiun. Jalan kaki butuh 30 menit.\nPerempuan: Wah, repot juga, ya."
+  },
+  {
+    "id": "lis-0023",
+    "instruction": "Dengarkan percakapan di kasir. Berapa uang kembaliannya?",
+    "explanation": "Totalnya 980 yen (きゅうひゃく はちじゅうえん) dan ia membayar dengan 1.000 yen (せんえん). Kasir berkata にじゅうえんの おかえしです (kembaliannya 20 yen). おかえし dan おつり berarti “uang kembalian”.",
+    "transcriptTranslation": "Perempuan: Semuanya 980 yen.\nLaki-laki: Kalau begitu, saya bayar dengan 1.000 yen.\nPerempuan: Baik, kembaliannya 20 yen."
+  },
+  {
+    "id": "lis-0024",
+    "instruction": "Dengarkan pengumuman di panti lansia. Apa yang dilakukan pada pukul 3?",
+    "explanation": "Jadwalnya: pukul 2 mandi (おふろ), pukul 3 makan camilan (さんじに おやつを たべます), dan mulai pukul 4 bernyanyi bersama.",
+    "transcriptTranslation": "Perempuan: Semuanya, ini jadwal siang ini. Mulai pukul 2 mandi. Setelah itu, pukul 3 makan camilan. Mulai pukul 4, kita bernyanyi bersama."
+  },
+  {
+    "id": "lis-0025",
+    "instruction": "Dengarkan pemberitahuan tentang cuaca. Apa yang harus dilakukan besok?",
+    "explanation": "Besok ada topan (たいふう). Pembicara berkata そとに でないで ください (jangan keluar), lalu まどを しめて、うちの なかに いて ください (tutup jendela dan tetaplah di dalam rumah).",
+    "transcriptTranslation": "Laki-laki: Besok akan datang topan. Angin akan sangat kencang, jadi jangan keluar. Tutup jendela dan tetaplah di dalam rumah."
+  },
+  {
+    "id": "lis-0026",
+    "instruction": "Dengarkan percakapan. Perempuan itu bangun pukul berapa?",
+    "explanation": "Ia berkata ろくじに おきます (saya bangun pukul 6). Pukul 8 (はちじ) adalah waktu mulai bekerja.",
+    "transcriptTranslation": "Laki-laki: Setiap pagi bangun pukul berapa?\nPerempuan: Saya bangun pukul 6. Kerja mulai pukul 8."
+  },
+  {
+    "id": "lis-0027",
+    "instruction": "Dengarkan percakapan di restoran. Berapa orang yang datang?",
+    "explanation": "Pelayan bertanya なんめいさまですか (untuk berapa orang?), dan laki-laki menjawab さんにんです (tiga orang).",
+    "transcriptTranslation": "Perempuan: Selamat datang. Untuk berapa orang?\nLaki-laki: Tiga orang.\nPerempuan: Kalau begitu, silakan ke meja ini."
+  },
+  {
+    "id": "lis-0028",
+    "instruction": "Dengarkan pengumuman di dalam kereta. Pintu keluar ada di sebelah mana?",
+    "explanation": "Pengumumannya: おでぐちは みぎがわです (pintu keluar di sisi kanan). みぎがわ = sisi kanan, ひだりがわ = sisi kiri.",
+    "transcriptTranslation": "Perempuan: Berikutnya Stasiun Sakura, Stasiun Sakura. Pintu keluar di sisi kanan."
+  },
+  {
+    "id": "lis-0029",
+    "instruction": "Dengarkan percakapan. Bagaimana pendapat laki-laki itu tentang pekerjaan barunya?",
+    "explanation": "Ia berkata たいへんですが、おもしろいです (berat, tetapi menarik). 〜が berarti “tetapi”. Ia juga terbantu karena seniornya baik (せんぱいが しんせつ).",
+    "transcriptTranslation": "Perempuan: Bagaimana pekerjaan barunya?\nLaki-laki: Berat, tetapi menarik. Senior saya baik, jadi saya sangat terbantu."
+  },
+  {
+    "id": "lis-0030",
+    "instruction": "Dengarkan percakapan di halte bus. Laki-laki itu naik bus yang mana?",
+    "explanation": "Bus yang ia tanyakan tidak pergi ke balai kota. Perempuan berkata しやくしょへ いくのは ごばんの バスです (yang pergi ke balai kota adalah bus nomor 5).",
+    "transcriptTranslation": "Laki-laki: Permisi, apakah bus ini pergi ke balai kota?\nPerempuan: Tidak. Yang pergi ke balai kota adalah bus nomor 5. Berangkatnya dari halte di sana.\nLaki-laki: Nomor 5, ya. Terima kasih."
+  }
+]

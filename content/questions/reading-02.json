@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rea-0011", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "カレーと ごはんを たのみます。ぜんぶで いくらですか。",
+    "passage": "【メニュー】\nラーメン　800円\nカレー　700円\nうどん　600円\n※ ごはんは 100円です。",
+    "choices": ["700円", "800円", "900円"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0012", "section": "reading", "category": "information-search", "level": "A1",
+    "prompt": "土曜日は 何時まで あいて いますか。",
+    "passage": "【ゆうびんきょく】\n月～金：9:00～17:00\n土：9:00～12:30\n日・祝日：休み",
+    "choices": ["12時半", "5時", "休みです"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0013", "section": "reading", "category": "comprehension", "level": "A1",
+    "prompt": "あした、どこで 会いますか。",
+    "passage": "ミンさん\nあしたの 朝、8時に 駅の 前で 会いましょう。\nいっしょに バスで 工場へ 行きます。\nおくれないで くださいね。\nすずき",
+    "choices": ["工場", "駅の 前", "バスの 中"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0014", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "アンさんは 今日、何を しますか。",
+    "passage": "アンさんへ\n今日の 午後、新しい きかいが 来ます。\n3時までに そうこを そうじして、ものを かたづけて ください。\nきかいの 使い方は、あした わたしが 説明します。\n山本",
+    "choices": ["そうこを そうじします", "きかいの 使い方を 説明します", "新しい きかいを 買います"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0015", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "アンさんは きかいの 使い方を いつ 聞きますか。",
+    "passage": "アンさんへ\n今日の 午後、新しい きかいが 来ます。\n3時までに そうこを そうじして、ものを かたづけて ください。\nきかいの 使い方は、あした わたしが 説明します。\n山本",
+    "choices": ["今日の 午前", "今日の 3時", "あした"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0016", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "1日に ぜんぶで いくつ 飲みますか。",
+    "passage": "【くすりの 飲み方】\n・1日 2回、朝と 夜、ごはんの あとで 飲んで ください。\n・1回に 2つ 飲みます。\n・飲んだ あとは、車を 運転しないで ください。",
+    "choices": ["2つ", "3つ", "4つ"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0017", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "この くすりを 飲んだ あとで、しては いけない ことは 何ですか。",
+    "passage": "【くすりの 飲み方】\n・1日 2回、朝と 夜、ごはんの あとで 飲んで ください。\n・1回に 2つ 飲みます。\n・飲んだ あとは、車を 運転しないで ください。",
+    "choices": ["ごはんを 食べる こと", "車を 運転する こと", "水を 飲む こと"], "answerIndex": 1
+  },
+  {
+    "id": "rea-0018", "section": "reading", "category": "information-search", "level": "A2",
+    "prompt": "肉を 安く 買いたいです。何曜日に 行きますか。",
+    "passage": "【スーパーさくら 今週の セール】\n月・火：やさい 20% 安い\n水：たまご 1パック 150円\n木・金：肉 30% 安い\n土・日：パン ぜんぶ 100円",
+    "choices": ["火曜日", "水曜日", "木曜日"], "answerIndex": 2
+  },
+  {
+    "id": "rea-0019", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "10月5日の 午前、何が できませんか。",
+    "passage": "【アパートの みなさんへ】\n10月5日(火) 午前9時から 12時まで、電気の 工事を します。\nこの 時間は 電気が 使えません。エレベーターも 止まります。\nかんりにん",
+    "choices": ["電気を 使う こと", "ごみを 出す こと", "外に 出る こと"], "answerIndex": 0
+  },
+  {
+    "id": "rea-0020", "section": "reading", "category": "comprehension", "level": "A2",
+    "prompt": "工事は 何時に 終わりますか。",
+    "passage": "【アパートの みなさんへ】\n10月5日(火) 午前9時から 12時まで、電気の 工事を します。\nこの 時間は 電気が 使えません。エレベーターも 止まります。\nかんりにん",
+    "choices": ["午前9時", "午前10時", "12時"], "answerIndex": 2
+  }
+]

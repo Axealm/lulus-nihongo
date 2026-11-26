@@ -1,0 +1,52 @@
+[
+  {
+    "id": "con-0031",
+    "instruction": "A bertanya apa yang dimakan B kemarin. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Partikel を menandai objek kata kerja: すしを 食べました = “makan sushi”. に dan へ menandai tujuan."
+  },
+  {
+    "id": "con-0032",
+    "instruction": "A bertanya tentang seseorang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Partikel の menghubungkan dua kata benda: 会社の 友だち = “teman kantor”. が menandai subjek, を menandai objek."
+  },
+  {
+    "id": "con-0033",
+    "instruction": "A bertanya tentang makanan Jepang. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜と 思います berarti “menurut saya …”. Sebelum と dipakai bentuk biasa: 高いと 思います = “menurut saya mahal”. 高くて dan 高いに tidak dipakai sebelum 思います."
+  },
+  {
+    "id": "con-0034",
+    "instruction": "A bertanya apakah B sudah menonton sebuah film. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜つもりです berarti “berniat …” dan dipakai setelah bentuk kamus: 見る つもりです = “saya berniat menonton”. 見た adalah bentuk lampau, 見て adalah bentuk て."
+  },
+  {
+    "id": "con-0035",
+    "instruction": "A memuji kemampuan menulis B. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜しか + bentuk negatif berarti “hanya …”: ひらがなと カタカナしか 書けません = “saya hanya bisa menulis hiragana dan katakana”. だけ tidak dipakai dengan arti ini bersama bentuk negatif."
+  },
+  {
+    "id": "con-0036",
+    "instruction": "A bertanya mengapa B terlambat. Baca percakapan, lalu pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "〜て しまいました menunjukkan penyesalan atas sesuatu yang telanjur terjadi: ねぼうして しまいました = “saya telanjur kesiangan”. Sebelum しまいました dipakai bentuk て."
+  },
+  {
+    "id": "con-0037",
+    "instruction": "A berangkat dari rumah. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Jawaban untuk いってきます (saya berangkat) adalah いってらっしゃい (selamat jalan). おかえりなさい diucapkan kepada orang yang baru pulang, ただいま diucapkan oleh orang yang pulang."
+  },
+  {
+    "id": "con-0038",
+    "instruction": "A menawarkan dua pilihan minuman. Baca percakapan, lalu pilih jawaban yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Pertanyaan どちらが いいですか dijawab dengan menyebut pilihan: こうちゃを おねがいします (saya minta teh). はい dan いいえ tidak dipakai untuk pertanyaan pilihan."
+  },
+  {
+    "id": "con-0039",
+    "instruction": "Di kantor, A tidak tahu cara memakai mesin fotokopi. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "B menawarkan bantuan: じゃあ、いっしょに やって みましょう = “kalau begitu, mari kita coba bersama”. それは よかったですね berarti “syukurlah”, おだいじに diucapkan kepada orang sakit."
+  },
+  {
+    "id": "con-0040",
+    "instruction": "A ingin duduk di dekat B. Baca percakapan, lalu pilih ungkapan yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Untuk mengizinkan, kita menjawab はい、どうぞ (ya, silakan). いけません berarti “tidak boleh”, jadi tidak cocok dengan はい. おねがいします dipakai saat meminta sesuatu."
+  }
+]

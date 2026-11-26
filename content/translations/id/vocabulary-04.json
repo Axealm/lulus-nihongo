@@ -1,0 +1,52 @@
+[
+  {
+    "id": "voc-0031",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Di perpustakaan (としょかん) kita meminjam buku: かります. かいます = membeli, うります = menjual."
+  },
+  {
+    "id": "voc-0032",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Karena hujan, yang dibawa adalah かさ (payung). かぎ = kunci, くつ = sepatu."
+  },
+  {
+    "id": "voc-0033",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "あじが たりません berarti “rasanya kurang”, lalu ditambahkan garam (しお). におい = bau, いろ = warna."
+  },
+  {
+    "id": "voc-0034",
+    "instruction": "Pilih kata yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "てを かします berarti “membantu” (secara harfiah: meminjamkan tangan). 〜て あげました menunjukkan bahwa bantuan itu diberikan kepada orang lain. かりて = meminjam, かえして = mengembalikan."
+  },
+  {
+    "id": "voc-0035",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "にぎやか berarti “ramai” dan dipakai untuk tempat atau suasana. “えきの まえは みせが おおくて、にぎやかです” = “Di depan stasiun banyak toko dan ramai.”"
+  },
+  {
+    "id": "voc-0036",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "つかれる berarti “lelah” dan dipakai untuk orang. “たくさん あるいたので、つかれました” = “Karena banyak berjalan, saya lelah.” Kata ini tidak dipakai untuk sepatu atau listrik."
+  },
+  {
+    "id": "voc-0037",
+    "instruction": "Pilih kalimat yang menggunakan kata ini dengan benar.",
+    "explanation": "わたす berarti “menyerahkan”. “しょるいを うけつけの ひとに わたして ください” = “Tolong serahkan dokumen ini kepada petugas loket.” Untuk “menyeberangi jembatan” dipakai わたって (dari わたる)."
+  },
+  {
+    "id": "voc-0038",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "先生 dibaca せんせい, artinya “guru”. Bunyi akhirnya panjang: せい."
+  },
+  {
+    "id": "voc-0039",
+    "instruction": "Pilih cara baca yang benar untuk kata yang digarisbawahi.",
+    "explanation": "来週 dibaca らいしゅう, artinya “minggu depan”. こんしゅう (今週) = minggu ini, せんしゅう (先週) = minggu lalu."
+  },
+  {
+    "id": "voc-0040",
+    "instruction": "Pilih kanji yang paling tepat untuk mengisi bagian (　　).",
+    "explanation": "Harga dalam mata uang Jepang memakai 円 (えん = yen). 人 dipakai untuk menghitung orang dan 本 untuk benda panjang."
+  }
+]
